@@ -1,0 +1,1820 @@
+                  OPTIONS PAGE                   
+Options 1.
+(a) 3only
+(b) 2 and 3 only
+(c) land 2 only
+(d) 1,2, and 3
+Options 2.------------
+(a) lonly
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) None of the above
+Options 3.------------
+(a) Miller and Urey
+(b) Richter and Arrhenius
+(c) Oparin and Haldane
+(d) Spallanzani and Redi
+Options 4.------------
+(a) lonly
+(b) 4 and 5 only
+(c) 1, 2, and 3 only
+(d) 2 and 8 only
+Options 5.------------
+(a) Between Mars and Jupiter
+(b) Between Jupiter and Saturn
+(c) Between Saturn and Neptune
+(d) Between Neptune and Pluto
+Options 6.------------
+(a) 6PM
+(b) 8PM
+(c) 6AM
+(d) 8AM
+Options 7.------------
+(a) 3-1-4-2
+(b) 1-2-3-4
+(d) 2-4-1-3
+Options 8.------------
+(a) 2 only
+(b) 1 and 2 only
+(c) 38only
+(d) 2 and 8 only
+Options 9.------------
+(a) 38only
+(b) 2 and 8 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 10.------------
+(a) 1 2 3 4
+(b) 4 2 1 8
+(d@) 3 4 1 2
+Options 11.------------
+(a) Itis a persistent anticyclonic storm on
+(b) Itis the largest voleano on Mars.
+(c) Itis the most powerful hurricanes ever
+(d) Itis the largest sunspot.
+Options 12.------------
+(a) 1, 2, and only
+(b) 1, 3, and 4 only
+(c) 2, 3, and 4 only
+(d) 1, 2,3 and 4
+Options 13.------------
+(a) 3and 4 only
+(b) 2 and 3 only
+(c) 1,3 and 4 only
+(d) 1,2,3 and 4
+Options 14.------------
+(a) 2 only
+(b) 3o0nly
+(c) land 2 only
+(d) 1,2and3
+Options 15.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 16.------------
+(a) The Oort cloud is an extended shell of
+(b) The Oort Cloud is very distant from
+(c) The Oort cloud is roughly circular, and
+(d)
+Options 17.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 18.------------
+(a) 4 only
+(b) 2 and 4 only
+(c) 2,38 and 4 only
+(d) 1,2, 3 and 4
+Options 19.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 2 and 8 only
+(d) 1 and 8 only
+Options 20.------------
+(a) 1-2-3-4
+(b) 2-1-3-4
+(d) 2-1-4-3
+Options 21.------------
+(a) 1 and 8 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1,2and 3
+Options 22.------------
+(a) Giraffe
+(b) Rhino
+(c) Monkey
+(d) Tardigrade
+Options 23.------------
+(a) 1 and 8 only
+(b) 2 only
+(c) 2 and 8 only
+(d) 1,2 and 3 only
+Options 24.------------
+(a) It is a new technique found to develop
+(b)
+(c) Itis anew asteroid recently discovered
+(d) Itis an invasive species recently found
+Options 25.------------
+(a) Tamil Nadu
+(b) Karnataka
+(c) Kerala
+(d) Andhra Pradesh
+Options 26.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 2 and 8 only
+(d) 1 and 2 only
+Options 27.------------
+(a) 1 and 4 only
+(b) 1 and 8 only
+(c) 2 and 4 only
+(d) 1,3, and 4 only
+Options 28.------------
+(a) 1 only
+(b) 1 and 8 only
+(c) 2 and 8 only
+(d) 1,2and 3
+Options 29.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 30.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 31.------------
+(a) lonly
+(b) 3o0nly
+(c) land 8 only
+(d) land 2 only
+Options 32.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 33.------------
+(a) lonly
+(b) 2 and 3 only
+(c) 38only
+(d) None
+Options 34.------------
+(a) 1 and 2 only
+(b) 3 and 4 only
+(c) 1,2 and 4 only
+(d) 1,3 and 4 only
+Options 35.------------
+(a) 1 and 8 only
+(b) 1 only
+(c) 3only
+(d) 1,2and3
+Options 36.------------
+(a)
+(b)
+(d)
+Options 37.------------
+(a) 1 only
+(b) 2 only
+(c) 1 and 2 only
+(d) 3 only
+Options 38.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 39.------------
+(a) Black Soil
+(b) Red and Yellow Soil
+(c) Laterite Soil
+(d) Forest Soil
+Options 40.------------
+(a) 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 3 only
+Options 41.------------
+(a) 1 and 2 only
+(b) 1 and 8 only
+(c) 38only
+(d) 1 only
+Options 42.------------
+(a) The black soils are generally clayey,
+(b)
+(c) The sand content in Alluvial soil
+(d)
+Options 43.------------
+(a) Laterite Soil
+(b) Black Soil
+(c) Red Soil
+(d) Peaty Soil
+Options 44.------------
+(a) Peaty and Marshy soils
+(b) Arid and Desert Soils
+(c) Laterite and Lateritic soils
+(d) Saline and Alkaline Soils
+Options 45.------------
+(a) 2 only
+(b) 2 and 3 only
+(c) 3only
+(d) lonly
+Options 46.------------
+(a) Nepal
+(b) Bangladesh
+(c) Sri Lanka
+(d) Myanmar
+Options 47.------------
+(a) 2-3-1-4
+(b) 3-2-4-1
+(c) 1-2-3-4
+(d) 4-3-2-1
+Options 48.------------
+(a) 1 4 8 2
+(b) 2 4 8 1
+(dd) 1 3 4 2
+Options 49.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 50.------------
+(a)
+(b)
+(d)
+Options 51.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 52.------------
+(a) 2 only
+(b) 1 and 2 only
+(c) 38only
+(d) 2 and 8 only
+Options 53.------------
+(a) 1 only
+(b) 1 and 8 only
+(c) 2 only
+(d) 1,2and 3
+Options 54.------------
+(a) 1 only
+(b) 2 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 55.------------
+(a)
+(b)
+(c)
+(d)
+Options 56.------------
+(a) 3only
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 57.------------
+(a) Caldera
+(b) Crater
+(c) Mid-Ocean Ridges
+(d) None of the above
+Options 58.------------
+(b) 1 2 4 4
+(a) 4 1 2 8
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) lonly
+(d) 1,2 and 3 only
+Options 59.------------
+(a) 2 and 4 only
+(b) 3 and 4 only
+(c) 1,2 and 3 only
+(d) 1,2, 3and4
+Options 60.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 61.------------
+(a) Central America and Pacific plate
+(b) Philippine and Indian plates
+(c) Between the Eurasian and Pacific
+(d) Between South America and Pacific
+Options 62.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 63.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 64.------------
+(a) 1 only
+(b) 3 only
+(c) 1 and 8 only
+(d) 2 only
+Options 65.------------
+(a) 1 and 4only
+(b) 2, 38 and 4 only
+(c) 1, 2,3 and 4 only
+(d) 2 and 8 only
+Options 66.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 8 only
+(d) 3 only
+Options 67.------------
+(a) Basic lavas are are highly fluid.
+(b) Basic lavas are light-coloured, of low
+(c) Acidic lavas richin iron and magnesium
+(d) Acidic lavas form a flattened shield or
+Options 68.------------
+(a) land 2 only
+(b) 2 and 4 only
+(c) 3and 4 only
+(d) 2 and 3 only
+Options 69.------------
+(a) land 3 only
+(b) land 2 only
+(c) 3only
+(d) 2 only
+Options 70.------------
+(a) lonly
+(b) 2 only
+(c) Both of them
+(d) None of the above
+Options 71.------------
+(a) lonly
+(b) 2 only
+(c) Both of them
+(d) None of the above
+Options 72.------------
+(a) lonly
+(b) 2 only
+(c) Both of them
+(d) None of the above
+Options 73.------------
+(a) AIDS
+(b) H1N1
+(c) Tuberculosis
+(d) Diabetes
+Options 74.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 75.------------
+(a) 1 and 5 only
+(b) 1, 8 and 5 only
+(c) 1 and 4 only
+(d) 2,3, and 4 only
+Options 76.------------
+(a) 2 only
+(b) 1 and 2 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 77.------------
+(a) 1 2 38 4
+(b) 3 4 2 1
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 78.------------
+(a) 3only
+(b) 1 and 8 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 79.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 80.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 81.------------
+(a) land 3 only
+(b) 3o0nly
+(c) land 2 only
+(d) 2 and 3 only
+Options 82.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 83.------------
+(a) 1-2-8
+(b) 2-3-1
+(c) 2-1-8
+(d) 3-1-2
+Options 84.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 3only
+(d) 1 and 8 only
+Options 85.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 86.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 87.------------
+(a) Yardangs are narrow, streamlined
+(b) A zeugen is a tabular mass of resistant
+(c) The playa plain covered up by salts is
+(d)
+Options 88.------------
+(a) 1 only
+(b) 1 and 2 only
+(d) 2 and 8 only
+Options 89.------------
+(a)
+(b)
+(c) 2 and 8 only
+(d) 1,2and3
+Options 90.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 91.------------
+(a) land 3 only
+(b) 2 and 4 only
+(c) land 4 only
+(d) 2 and 3 only
+Options 92.------------
+(a) land 2 only
+(b) 2 only
+(c) land 8 only
+(d) 3only
+Options 93.------------
+(a) 2 only
+(b) 1 and 3 only
+(c) lonly
+(d) None of the above
+Options 94.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 95.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 96.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 97.------------
+(a) AIDS
+(b) H1N1
+(c) Tuberculosis
+(d) Diabetes
+Options 98.------------
+(a) It changes its colour very frequently.
+(b) It can survive in vacuum conditions
+(c) It can kill almost all drug resistant
+(d) None of the above
+Options 99.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 100.------------
+(a) 1 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 101.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 102.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 103.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 104.------------
+(a) 1,3 and 4 only
+(b) 1, 2 and 3 only
+(c) 2 and 4 only
+(d) 1,2,3and4
+Options 105.------------
+(a) 1 2 3 4
+(b) 2 3 1 4
+(a) 2 only
+(b) 2 and 8 only
+(c) land 8 only
+(d) 1 and 2 only
+Options 106.------------
+(a) 3only
+(b) 2 and 3 only
+(c) land 2 only
+(d) 1,2and3
+Options 107.------------
+(a) 1,2 and 4 only
+(b) 2,3 and 4 only
+(c) 1,8 and 4 only
+(d) 1,2, 3and 4
+Options 108.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 109.------------
+(a) 1 and 8 only
+(b) 2 and 8 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 110.------------
+(a)
+(b)
+(c) Ellipticity of the Earth’s orbit around
+(d)
+Options 111.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 112.------------
+(a)
+(b)
+(c) 3only
+(d)
+Options 113.------------
+(a) 1, 2 and 4 only
+(b) 2, 38 and 4 only
+(c) 1 and 4only
+(d) 1, 2,3 and 4
+Options 114.------------
+(a) The thermal upper air inversion is
+(b)
+(c) Mechanical inversion caused by the
+(d)
+Options 115.------------
+(a) Dew is formed when dew point is below
+(b) Condensation is indirectly related to the
+(c) When the relative humidity of an air is
+(d)
+Options 116.------------
+(a) Temperature inversion
+(b) Smog formation
+(c) Occurrence of Precipitation
+(d) Ozone layer formation
+Options 117.------------
+(a) land 2 only
+(b) 3only
+(c) land 8 only
+(d) 1,2and3
+Options 118.------------
+(a) lonly
+(b) 2 and 3 only
+(c) land 8 only
+(d) 1,2and3
+Options 119.------------
+(a) lonly
+(b) 1 and 2only
+(c) 2and 8 only
+(d) 1 and 4 only
+Options 120.------------
+(a) Nigeria
+(b) Cameroon
+(c) Gabon
+(d) Republic of the Congo
+Options 121.------------
+(a) Karnataka
+(b) Andhra Pradesh
+(c) Kerala
+(d) Tamil Nadu
+Options 122.------------
+(a)
+(b)
+(d)
+Options 123.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 38only
+(d) 1,2 and3
+Options 124.------------
+(a) 2 and 4 only
+(b) 1 and 8 only
+(c) 1, 2, and 3 only
+(d) 1, 2, 3, and 4
+Options 125.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 1 and 2 only
+(d) 1,2, and 3
+Options 126.------------
+(a) 1 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 127.------------
+(a) 3only
+(b) 1 and 2 only
+(c) lonly
+(d) 1,2and3
+Options 128.------------
+(a) 3only
+(b) 2 and 3 only
+(c) lonly
+(d) land 3 only
+Options 129.------------
+(a) 3only
+(b) 1lonly
+(c) 2 and 3 only
+(d) 1,2and3
+Options 130.------------
+(a)
+(b)
+(d)
+Options 131.------------
+(a) Laurentian
+(b) British
+(c) China
+(d) Mediterranean
+Options 132.------------
+(a) Laurentian Type
+(b) Siberian Type
+(c) Mediterranean Type
+(d) British Type
+Options 133.------------
+(a)
+(b)
+(c) 2 and 8 only
+(d) 1,2 and3
+Options 134.------------
+(a) 1,2 and3
+(b) 2 and 8 only
+(c) 1 and 2 only
+(d) 2 only
+Options 135.------------
+(a) This climate witnesses very high
+(b)
+(c) Cold laden winds ‘Harmattan’ flows in
+(d)
+Options 136.------------
+(a) 1 only
+(b) 2 only
+(c) 38only
+(d) None of the above
+Options 137.------------
+(a)
+(b)
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 138.------------
+(a)
+(b)
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 139.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 140.------------
+(a) land 2 only
+(b) 2 and 3 only
+(c) land 4 only
+(d) 3and 4 only
+Options 141.------------
+(a) 3only
+(b) 2 and 3 only
+(c) land 2 only
+(d) 1,2and3
+Options 142.------------
+(a)
+(b)
+(d)
+Options 143.------------
+(a) 1,2, 3
+(b) 1,3,4,5
+(c) 2, 3,4
+(d) All of the above
+Options 144.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 145.------------
+(a) land 2 only 2. Higher prices for consumers
+(b) 1, 2 and 3 only 3. Trade diversion effects
+(c) 2 and 4 only 4. India is a gainer in this war
+(d) 1,2, 3 and 4 Choose the correct option
+Options 146.------------
+(a) Stop Soil Erosion, Save Our Future’ (c) 1,2,3and4
+(b) Stop Soil Degradation (a) 3 and 4only
+(a) 38only
+(b) 2 only
+(c) lonly
+(d) None of the above
+Options 147.------------
+(a) 2 only
+(b) 3 only
+(c) lonly
+(d) None of the above
+Options 148.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 149.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 150.------------
+(a) Carlsberg Ridge
+(b) Lombok Strait
+(c) Tonga Trench
+(d) Diamantina Trench
+Options 151.------------
+(a) 4,2,1,3
+(b) 3, 2,4, 1
+(c) 1,4,3,2
+(d) 3,4,1,2
+Options 152.------------
+(a) land 3 only
+(b) 3 and 4 only
+(c) 1, 2, and 4 only
+(d) 1, 2,3, and 4
+Options 153.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 154.------------
+(a) lonly
+(b) 3o0nly
+(c) 1 and 2 only
+(d) 1,2, and 3
+Options 155.------------
+(a) lonly
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1 and 2 only
+Options 156.------------
+(a) lonly
+(b) 2 and 4 only
+(c) land 4 only
+(d) 1,2, 3 and 4 only
+Options 157.------------
+(a) 1-2-3-4
+(b) 3-1-2-4
+(d) 4-3-2-1
+Options 158.------------
+(a) 1 and 8 only
+(b) 2 and 2 only
+(c) 1,2and3
+(d) 1 and 8 only
+Options 159.------------
+(a) lonly
+(b) 2 and 8 only
+(c) 38only
+(d) 1,2 and3
+Options 160.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 161.------------
+(a)
+(b)
+(c) lonly
+(d) 1,2and3
+Options 162.------------
+(a) 1 and 2 only
+(b) 1,2 and 3
+(c) 2 and 3 only
+(d) 1 only
+Options 163.------------
+(a) When the sun, the moon and the earth
+(b) When the sun and moon are at right
+(c) During the Diurnal tide, there is only
+(d)
+Options 164.------------
+(a) 3only
+(b) 2 and 3 only
+(c) 1,2and3
+(d) land 3 only
+Options 165.------------
+(a) Muds are terrigenous deposits because
+(a)
+(b)
+(d) WTO outcomes
+Options 166.------------
+(a) Uttarakhand.
+(b) Himachal Pradesh
+(c) Sikkim
+(d) Uttar Pradesh
+Options 167.------------
+(a) Australia
+(b) Philippines
+(c) Japan
+(d) New Zealand
+Options 168.------------
+(a) A device that will allow scientists to
+(b) A new mobile phone mimicking frog
+(c) Anew species of frog
+(d) A mobile application to trace frogs
+Options 169.------------
+(b) Oozes are pelagic deposits because they 3. Meat consumption
+(c) The muds colouring depends upon their (a) Only 1
+(b) 1 and 2 only
+(d) Clay is an accumulation of volcanic 2 and 1
+Options 170.------------
+(a) 2 only
+(b) 3o0nly
+(c) land 2 only
+(d) 1, 2, and 3
+Options 171.------------
+(a) 1-2-3
+(b) 3-2-1
+(c) 1-8-2
+(d) 2-1-3
+Options 172.------------
+(a) lonly
+(b) 2 only
+(c) land 8 only
+(d) None of the above
+Options 173.------------
+(a) 1 and 3 only
+(b) 1, 2, and 3 only
+(c) 2and 4 only
+(d) 1,2, 3 and 4
+Options 174.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 175.------------
+(a) 38only
+(b) 2 only
+(c) lonly
+(d) 1,2 and3
+Options 176.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 177.------------
+(a) 1-2-3-4
+(b) 2-1-3-4
+(d) 3-2-4-2
+Options 178.------------
+(a) 2 only
+(b) 1 and 2 only
+(c) 1 and 8 only
+(d) 2 and 3 only
+Options 179.------------
+(a) 1 only
+(b) 2 only
+(c) 1 and 2 only
+(d) 2 and 3 only
+Options 180.------------
+(a) 1-2-4-3
+(b) 1-2-3-4
+(d) 2-1-3-4
+Options 181.------------
+(a) 2-3-4-1
+(b) 3-4-2-1
+(d) 2-3-1-4
+Options 182.------------
+(a) lonly
+(b) 3o0nly
+(c) 2 and 3 only
+(d) 1,2and3
+Options 183.------------
+(b) 4 #1 8 2
+(a) lonly
+(b) 3 only
+(c) 2 and 8 only
+(d) 1,2 and3
+Options 184.------------
+(a) 1,2 and 3 only
+(b) 1,8 and 4 only
+(c) 2,38 and 4 only
+(d) 1,2 and 4 only
+Options 185.------------
+(a) They are the highest mountain range
+(b)
+(d)
+Options 186.------------
+(a) lonly
+(b) 2 only
+(c) 3only
+(d) 2 and 8 only
+Options 187.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 188.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 189.------------
+(a) lonly
+(b) 2 and 8 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 190.------------
+(a) Manipur
+(b) Gujarat
+(c) Assam
+(d) Tripura
+Options 191.------------
+(a)
+(b)
+(c) It suggested the new key reforms in 5G
+(d) It suggested for
+Options 192.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 193.------------
+(a)
+(b)
+(c) 2 and 3 only
+(d) 1,2and3
+Options 194.------------
+(a) land 2 only
+(b) 2 and 3 only
+(c) land 3 only
+(d) 1,2 and3
+Options 195.------------
+(a) land 3 only
+(b) land 2 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 196.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 3only
+(d) 1,2and3
+Options 197.------------
+(a) lonly
+(b) 1 and 8 only
+(c) 2only
+(d) 1 and 2 only
+Options 198.------------
+(a) Kosi
+(b) Karnali
+(c) Gandak
+(d) Kali
+Options 199.------------
+(a) 1 and 4 only
+(b) 2 and 8 only
+(c) 1,38 and 4 only
+(d) 1 only
+Options 200.------------
+(a) 4-3-1-2
+(b) 3-4-2-1
+(d) 3-2-4-1
+Options 201.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 202.------------
+(a) Alaknanda
+(b) Tons
+(c) Bhagirathi
+(d) Yamuna
+Options 203.------------
+(a) 1 only
+(b) 1 and 4 only
+(c) 2 and 8 only
+(d) 1, 2 and 4 only
+Options 204.------------
+(a) 3only
+(b) 1 and 8 only
+(c) 1 and 2 only
+(d) 1,2and 3
+Options 205.------------
+(a) 1 only
+(b) 2 and 4 only
+(c) 1, 2, and 3 only
+(d) 1, 2,3 and 4
+Options 206.------------
+(a) land 3 only
+(b) 2, 3 and 4 only
+(c) 1,8 and 4 only
+(d) 1,2,3and4
+Options 207.------------
+(a) land 5 only
+(b) 2, 3 and 4 only
+(c) land 2 only
+(d) 1,2, 4 and 5 only
+Options 208.------------
+(a) 2 and 4 only
+(b) 1, 2 and 3 only
+(c) 1, 2, 3 and 4 only
+(d) 1,2,3,4and5
+Options 209.------------
+(a) 1 and 2 only
+(b) 3o0nly
+(c) 2 and 8 only
+(d) 1,2and3
+Options 210.------------
+(a) In the main stream of the Indus, the
+(b) The discharge of the principal rivers of
+(c) The principal rivers of the Indus River
+(d) It follows a north-westerly course
+Options 211.------------
+(a) 1 and 8 only
+(b) 2 and 4 only
+(c) 2 and 8 only
+(d) 1 and 4 only
+Options 212.------------
+(a) Madhya Pradesh
+(b) Gujarat
+(c) Maharashtra
+(d) Chhattisgarh
+Options 213.------------
+(a) Sabarmati
+(b) Luni
+(c) Tapi
+(d) Mahi
+Options 214.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 215.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 216.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 217.------------
+(a) 1 and 2 only (a) India and Russia
+(b) 2 and 8 only (b) India and Israel
+(c) 1 and 8 only (c) India and Sri-Lanka
+(d) 1,2 and3 (d) India and France
+Options 218.------------
+(a) 1,2 and3
+(b) 1,8 only
+(c) 2 and 8 only
+(d) 1 and 2 only
+Options 219.------------
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1,2 and 3 only
+(d) 1,2, 3and 4
+Options 220.------------
+(a) 2 only
+(b) 1 and 2 only
+(c) 1only
+(d) 1,2and3
+Options 221.------------
+(a) 1 only
+(b) 1 and 8 only
+(c) 1 and 2 only
+(d) 2 and 8 only
+Options 222.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 223.------------
+(a) lonly
+(b) 3o0nly
+(c) land 3 only
+(d) 1,2and3
+Options 224.------------
+(a) lonly
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1,2, and 3
+Options 225.------------
+(a) lonly
+(b) 2 and 4 only
+(c) 1,2 and 3 only
+(d) 1,2,3and4
+Options 226.------------
+(a) MONEX
+(b) ISMEX
+(c) Monsoon-77
+(d) MONTBLEX
+Options 227.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 228.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 229.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 230.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 231.------------
+(a) 2 only
+(b) 3 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 232.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 233.------------
+(a) 1, 3 and 5 only
+(b) 2, 38 and 4 only
+(c) 1,2 and 5 only
+(d) 1, 2,4 and 5 only
+Options 234.------------
+(a) 1 only
+(b) 2 and 8 only
+(c) 1,2and3
+(d) 1 and 2 only
+Options 235.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 236.------------
+(a) 1,2 and 3 only
+(b) 2,3 and 4 only
+(c) 1,8 and 4 only
+(d) 1,2 and 4 only
+Options 237.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 238.------------
+(a) land 2
+(b) 1,2 and 3
+(c) 1,2, 3 and 4
+(d) Only 4
+Options 239.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 240.------------
+(a) Sykes-Picot Agreement
+(b) Balfour Declaration
+(c) Camp David Accord
+(d) McMahon-Hussein Correspondence
+Options 241.------------
+(a) UN backed coalition combat in Yemen
+(b) Monetary measure by the central
+(c) United States led coalition combat in
+(d) New approach to address climatic
+Options 242.------------
+(a) 1 only
+(b) 1 and 3 only
+(c) 2 and 8 only
+(d) 1,2and 3
+Options 243.------------
+(a) 4 and 5 only
+(b) 1,38, 4 and 5 only
+(c) 38, 4 and 5 only
+(d) 1,2, 3,4 and5
+Options 244.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 1,2 and 4 only
+(d) 1,8 and 4 only
+Options 245.------------
+(a) 1 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 246.------------
+(a) 1 only
+(b) 3only
+(c) 1 and 2 only
+(d) 1,2and 3
+Options 247.------------
+(a) 4-2-1-8
+(b) 1-4-3-2
+(c) 1-3-4-2
+(d) 2-4-3-1
+Options 248.------------
+(a) Lake Disappointment
+(b) Lake Eyre
+(c) Lake Moore
+(d) Lake Taupo
+Options 249.------------
+(a) land 2 only
+(b) 3 and 4 only
+(c) land 4 only
+(d) 1,2,3and4
+Options 250.------------
+(a) land 3 only
+(b) 2 and 3 only
+(c) land 2 only
+(d) 1,2and3
+Options 251.------------
+(a) Namibia
+(b) Mozambique
+(c) Lesotho
+(d) Botswana
+Options 252.------------
+(a) Kerch Strait
+(b) Strait of Tartary
+(c) Bosporus Strait
+(d) Dardanelles Strait
+Options 253.------------
+(a) 4-1-3-2
+(b) 1-4-3-2
+(c) 1-3-4-2
+(d) 3-1-2-4
+Options 254.------------
+(a) Java Sea and Andaman Sea
+(b) Gulf of Thailand and the Gulf of
+(c) Gulf of Tongking and the South China
+(d) Gulf of Thailand and the Andaman
+Options 255.------------
+(a) 2 and 4 only
+(b) 1, 2, and 3 only
+(c) 1,38, and 4 only
+(d) 1,2, 3and 4
+Options 256.------------
+(a) Australia, New Zealand, East Timor
+(b) Argentina, Bolivia, Chile
+(c) China, South Korea, Japan
+(d) Argentina, Peru, Chile
+Options 257.------------
+(a) Ushuaia
+(b) Stanley
+(c) Sentosa
+(d) Puerto Santa Cruz
+Options 258.------------
+(a) 4
+(b) 5
+(c) 6
+(d) 7
+Options 259.------------
+(a) North Andaman
+(b) Middle Andaman
+(c) South Andaman
+(d) Little Andaman
+Options 260.------------
+(a) 3-1-2-4
+(b) 2-3-4-1
+(c) 2-4-3-1
+(d) 4-2-3-1
+Options 261.------------
+(a) 4-3-1-2
+(b) 4-3-2-1
+(c) 3-4-2-1
+(d) 3-4-1-2
+Options 262.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 only
+(d) 1 and 8 only
+Options 263.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and 3
+Options 264.------------
+(a) Zimbabwe
+(b) Tanzania
+(c) Kenya
+(d) South Africa
+Options 265.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 266.------------
+(a)
+(b)
+(d)
+Options 267.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 268.------------
+(a) lonly
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 269.------------
+(a) lonly
+(b) 1, 2, and 3
+(c) 2only
+(d) 2 and 3 only
+Options 270.------------
+(a) 1 and 4 only
+(b) 2 and 8 only
+(c) 1,8 and 4 only
+(d) 1,2 and 4 only
+Options 271.------------
+(a) 3only
+(b) 1 and 2 only
+(c) 2 and 8 only
+(d) 1,2and3
+Options 272.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 273.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 274.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 275.------------
+(a) 1 only
+(b) 3 only
+(c) 2 only
+(d) 1 and 8 only
+Options 276.------------
+(a) 1-3-2-4
+(b) 3-1-2-4
+(d) 4-1-2-3
+Options 277.------------
+(a) 1 and 4only
+(b) 2 and 8 only
+(c) 1, 2, and 4 only
+(d) 2, 38 and 4 only
+Options 278.------------
+(a) 1-2-4-3
+(b) 1-3-2-4
+(d) 2-3-1-4
+Options 279.------------
+(a)
+(b)
+(c)
+(d)
+Options 280.------------
+(a) lonly
+(b) 1 and 3 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 281.------------
+(a) land 2 only
+(b) 1, 3 and 4 only
+(c) 2,3 and 4 only
+(d) 1,2,3and4
+Options 282.------------
+(a) 1 and 2 only
+(b) 1 and 8 only
+(c) 2and 3 only
+(d) 1,2and3
+Options 283.------------
+(a) 3only
+(b) 1,2 and3
+(c) land 2 only
+(d) 2 and 8 only
+Options 284.------------
+(a) 1,2 and 3 only
+(b) 2,3 and 4 only
+(c) 1,2 and 4 only
+(d) 1,2 and 5 only
+Options 285.------------
+(a) Shale gas refers to natural gas that is
+(b)
+(c) According to the EIA, USA has the
+(d)
+Options 286.------------
+(a) 5-4-1-2-3
+(b) 4-5-1-2-3
+(d) 4-5-2-1-3
+Options 287.------------
+(a) land 3 only
+(b) 2 and 8 only
+(d) 3 only
+Options 288.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and 3
+Options 289.------------
+(a) Paris
+(b) New York
+(c) Moscow
+(a) Madrid
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 8 only
+(d) 1,2and3
+Options 290.------------
+(a) Himachal Pradesh
+(b) Rajasthan
+(c) Uttar Pradesh
+(d) Uttarakhand
+Options 291.------------
+(a) Constitutional (103rd Amendment) Act
+(b) Constitutional (101st Amendment) Act
+(c) Constitutional (102nd Amendment) Act
+(d) Constitutional (104th Amendment) Act
+Options 292.------------
+(a) 1 and 8 only
+(b) 3 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 293.------------
+(a) North Antelope Rochelle, USA
+(b) Haerwusu Coal Mine, China
+(c) Peak Downs coal mine
+(d) Raspadskaya, Russia
+Options 294.------------
+(a) 1-2-4-8
+(b) 1-4-3-2
+(d) 4-1-3-2
+Options 295.------------
+(a) 1 and 8 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 296.------------
+(a) 1 and 8 only
+(b) 3 only
+(c) 1 and 2 only
+(d) 1,2and3
+Options 297.------------
+(a)
+(b)
+(c) 3and 4 only
+(d) 1, 3 and 4 only
+Options 298.------------
+(a) lonly
+(b) 2 only
+(c) 3only
+(d) 1,2 and 3
+Options 299.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 300.------------
+(a) lonly
+(b) 1 and 3 only
+(c) 3only
+(d) 1,2and3
+Options 301.------------
+(a) 2 8 4 «1
+(b) 3 4 1 2
+(a) NH-1
+(b) NH-2
+(c) NH-4
+(d) NH-8
+Options 302.------------
+(a) 1 and 8 only
+(b) 3 only
+(c) 2only
+(d) 1,2and3
+Options 303.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 304.------------
+(a) 1 only
+(b) 2 only
+(c) Both1 and 2
+(d) Neither 1 nor 2
+Options 305.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 306.------------
+(a) 2 and 8 only
+(b) 1 and 8 only
+(c) 38only
+(d) 1,2and3
+Options 307.------------
+(a) Coal
+(b) Iron
+(c) Gold
+(d) Uranium
+Options 308.------------
+(a) land3
+(b) 3 only
+(c) 2 and 8 only
+(d) 2 only
+Options 309.------------
+(a) North Atlantic Route
+(b) Cape of Good Hope route
+(c) West Coast North America route
+(d) Trans-Pacific route
+Options 310.------------
+(a) land 2 only
+(b) 2 only
+(c) 1 and 8 only
+(d) 2 and 3 only
+Options 311.------------
+(a) land 2 only
+(b) 2 and 3 only
+(c) land 8 only
+(d) 1,2and3
+Options 312.------------
+(a) 1 and 2 only
+(b) 2 and 8 only
+(c) 1 and 3 only
+(d) 1,2and3
+Options 313.------------
+(a) Industrial Disputes Act, 1947, Trade
+(b)
+(c) Minimum Wages Act, 1948, Insolvency
+(d)
+Options 314.------------
+(a) lonly
+(b) 2 only
+(c) 1,2 and 3 only
+(d) 1,2, 3 and 4
+Options 315.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 316.------------
+(a) 1,2and3
+(b) 2 and 3 only
+(c) land 8 only
+(d) land 2 only
+Options 317.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 or 2
+Options 318.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 or 2
+Options 319.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 1,2and3
+(d) 1 and 8 only
+Options 320.------------
+(a) 1,2 and3
+(b) 1 and 2 only
+(c) 38only
+(d) 2 only
+Options 321.------------
+(a) 1,2 and 4 only
+(b) 1 and 2 only
+(c) 1,2, 3 and 4 only
+(d) 1, 2, 3 and 5 only
+Options 322.------------
+(a) 3
+(b) 4
+(c) 5
+(d) 6
+Options 323.------------
+(a) Kokrajhar
+(b) Baska
+(c) Chirang
+(d) Dima Hasao
+Options 324.------------
+(a) Terekhol
+(b) Mandovi
+(c) Zuari
+(d) Sal
+Options 325.------------
+(a) 1, 2,3 and 4
+(b) 2, 8 and 4 only
+(c) land 2 only
+(d) 2 only
+Options 326.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 327.------------
+(a) 1 and 2 only
+(b) 3 only
+(c) 2 and 8 only
+(d) 1,2and3
+Options 328.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 329.------------
+(a) land 4 only
+(b) 2 and 3 only
+(c) 1, 38and 4 only
+(d) 1,2,3and4
+Options 330.------------
+(a) 2 and 4 only
+(b) 2, 3 and 4 only
+(c) 1,2,3 and 4
+(d) land 3 only
+Options 331.------------
+(a)
+(b)
+(c) 2only
+(d)
+Options 332.------------
+(a)
+(b)
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 333.------------
+(a) 2 and 4 only
+(b) 1 and 8 only
+(c) 2 and 8 only
+(d) 1 and 2 only
+Options 334.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 335.------------
+(a) Pir Panjal
+(b) Karakoram
+(c) Shivaliks
+(d) Zaskar
+Options 336.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 337.------------
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 338.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 1,2and3
+(d) 3 only
+Options 339.------------
+(a) Uttar Pradesh
+(b) Rajasthan
+(c) Madhya Pradesh
+(d) Bihar
+Options 340.------------
+(a)
+(b)
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 341.------------
+(a) 1 only
+(b) 2 only
+(c) Both land 2
+(d) Neither 1 nor 2
+Options 342.------------
+(a) 1 only
+(b) 2 only
+(c) Both land 2
+(d) Neither 1 nor 2
+Options 343.------------
+(a) 1 only
+(b) 2 only
+(c) Both land 2
+(d) Neither 1 nor 2
+Options 344.------------
+(a) 1 only
+(b) 2 only
+(c) Both land 2
+(d) Neither 1 nor 2
+Options 345.------------
+(a) 1 only
+(b) 2 only
+(c) 38only
+(d) 1,2and 3
+Options 346.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 347.------------
+(a) lonly
+(b) 2 only
+(c) Both 1 and 2
+(d) Neither 1 nor 2
+Options 348.------------
+(a) 2 only
+(b) lonly
+(c) 2 and 3 only
+(d) 1,2and3
+Options 349.------------
+(a) 2 and 3 only
+(b) 2 only
+(c) 1 and 2 only
+(d) 3and 4 only
+Options 350.------------
+(a) lonly
+(b) 2 and 8 only
+(c) 1,2and3
+(d) 1 and 8 only
+Options 351.------------
+(a) 3only
+(b) 2 only
+(c) 1 and 2 only
+(d) 1,2, 3and 4
+Options 352.------------
+(a) Nebular Hypothesis
+(b) The Big Splat Theory
+(c) Chamberlain and Moulton theory
+(d) Big Bang Theory
+Options 353.------------
+(a) 1 and 2 only
+(b) 1 only
+(c) 2 and 3 only
+(d) 1,2 and3
+Options 354.------------
+(a) Subtropical areas tend to have less
+(b)
+(c) Subtropical areas have an enhanced
+(d) Subtropical areas are nearer to the
+Options 355.------------
+(a) 1 and 2 only
+(b) 3 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 356.------------
+(a) 2 only
+(b) 1 and 8 only
+(c) 1 and 2 only
+(d) 1 only
+Options 357.------------
+(a)
+(b)
+(c) A megalopolis is a large city, with a
+(d)
+Options 358.------------
+(a) land 3 only
+(b) 1only
+(c) 1,2and3
+(d) None of the above
+Options 359.------------
+(a) Income Approach
+(b) Expenditure Approach
+(c) Basic Needs Approach
+(d) Welfare Approach
+Options 360.------------
+(a) 2 only
+(b) land 2 only
+(c) land 3 only
+(d) 1,2and3
+Options 361.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 3only
+(d) 1,2and3
+Options 362.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 3only
+(d) 1,2and3
+Options 363.------------
+(a) 1 only
+(b) 1 and 2 only
+(c) 2 and 3 only
+(d) 1,2 and3
+Options 364.------------
+(a) 1 and 2 only
+(b) 2 only
+(c) 2 and 3 only
+(d) 1,2and3
+Options 365.------------
+(a) 1 and 2 only
+(b) 1, 2 and 3 only
+(c) 1 and 4 only
+(d) 1, 2,3 and 4
+Options 366.------------
