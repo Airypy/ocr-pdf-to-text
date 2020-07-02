@@ -62,7 +62,7 @@ def answers_extr(page_name,ans_count):
         text = pytesseract.image_to_string(im, lang = 'eng')
         ans=re.compile('(?!.*(Time|TARGET|ANSWER|crSCORE|DAY|crJSCORE|ceEJSCORE)).*') #REMOVING TEXTS STARTING FROM WORDS INSIDE THE BRACKETS
         for line in text.split('\n'):
-            if "Explanation:" in line or "Explanation" in line:
+            if "Explanation:" in line or "Explanation" in line or "Correct Option" in line:
                 ans_count+=1
                 a.write('\n'+"For Question {}.---------------".format(ans_count))
             if ans.match(line):
