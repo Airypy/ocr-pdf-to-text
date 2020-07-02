@@ -1,5 +1,5 @@
                   OPTIONS PAGE                   
-Options 1.
+Options 1.------------
 (a) 3only
 (b) 2 and 3 only
 (c) land 2 only

@@ -108,115 +108,6 @@ the modern theory the hypothesis
 of abiogenesis was proposed with a
 condition that the non-living materials
 can give rise to life in the condition
-
-
- Correct Option: (a)
-
-For Question 4.---------------
-Explanation:
-
-Universe
-
-Claudius Ptolemy was the first to put
-forward the geocentric view of the
-Universe. He postulated that the Earth
-is in the center of the universe and all the
-celestial bodies are moving around it.
-
-Nicolaus Copernicus shattered the long-
-held notion that the Earth was the center of
-the solar system proposing a heliocentric
-(sun-centered) model instead.
-
-In the early 1920s Edwin Hubble detected
-Cepheid variables in the nearby Andromeda
-galaxy and discerned that it was just under
-a million light-years away. He also said
-that the diameter of the universe is
-5 billion light-years. Today the best
-estimate is that the galaxy is actually 54
-million light-years away.
-
- Correct Option: (b)
-
-For Question 5.---------------
-Explanation:
-Earth
-
-Our solar system consists of our star the
-Sun and everything bound to it by gravity
-- the planets Mercury Venus Earth Mars
-Jupiter Saturn Uranus and Neptune
-dwarf planets such as Pluto dozens of
-moons and millions of asteroids comets
-and meteoroids.
-
-The inner rocky planets are Mercury
-Venus Earth and Mars. These are also
-called the terrestrial planets. The Earth
-is the largest terrestrial planet.
-
-The outer planets are gas giants Jupiter
-and Saturn and ice giants Uranus and
-Neptune. Jupiter is the largest gas giant.
-
-An astronomical unit (AU) is the average
-from Earth to the Sun about 93 million
-miles (150 million km). Thus the earth is
-exactly one AU away from the sun.
-
-
-Earth’s mean obliquity is currently
-23°26'11" (or 243668°).
-
-Correct Option: (c)
-For Question 6.---------------
-Explanation:
-
-Theories of Origin of Life
-
-Six major theories are proposed to explain
-the origin of life on earth. These theories
-are as follows:
-
->» Theory of Special Creations: It
-proposes that life on earth is created
-by a supernatural power the GOD.
-It also proposes that all the living
-organisms in present form were
-created the same day.
-
-» Theory of spontaneous generations: It
-assumes that non-living material in a
-spontaneous manner gives rise to life.
-This theory was criticized by Lazzaro
-Spallanzani Francisco Redi and Louis
-Pasteur.
-
-» Theory of catastrophism: It assumes
-that life is originated by the special
-creation and it is followed by
-catastrophe due to geographical
-disturbances.
-
-» Theory of cosmozoic: This theory was
-put forward by Richter and strongly
-supported by Arrhenius. The theory
-assumes that life was present in the
-form of resistant spores and appeared
-on earth from other planets. Since the
-condition of earth was supporting the
-life these spores grew and evolved into
-different organisms. This theory was
-also known as “theory of panspermia
-or spore theory”.
-
-» The modern theory/ Chemical Theory/
-Theory of primary abiogenesis: In
-the modern theory the hypothesis
-of abiogenesis was proposed with a
-condition that the non-living materials
-can give rise to life in the condition
 of primitive earth. The condition of
 the primitive earth is different from
 the present conditions which do not
@@ -278,7 +169,7 @@ were formed.
 
 Correct Option: (d)
 
-For Question 7.---------------
+For Question 4.---------------
 Explanation:
 
 Parts of Earth
@@ -309,7 +200,7 @@ has silica and aluminum.
 
  Correct Option: (d)
 
-For Question 8.---------------
+For Question 5.---------------
 Explanation:
 
 Kuiper belt
@@ -332,7 +223,7 @@ dike a donut) than a thin belt.
 
  Correct Option: (d)
 
-For Question 9.---------------
+For Question 6.---------------
 Explanation:
 
 Latitude and longitude
@@ -351,7 +242,7 @@ hours as East is earlier to the West
 
  Correct Option: (c)
 
-For Question 10.---------------
+For Question 7.---------------
 Explanation:
 
 Tim zones
@@ -387,7 +278,7 @@ its political ideology.
 
  Correct Option: (a)
 
-For Question 11.---------------
+For Question 8.---------------
 Explanation:
 
 Asteroids Comets and Meteors
@@ -448,7 +339,7 @@ theorized its existence.
 
  Correct Option: (c)
 
-For Question 12.---------------
+For Question 9.---------------
 Explanation:
 
 Solar System
@@ -485,7 +376,7 @@ confirmed the existence of these moons.
 
 1 Correct Option: (b)
 
-For Question 13.---------------
+For Question 10.---------------
 Explanation:
 
 Famous Astronomers
@@ -522,7 +413,7 @@ at an early age having witnessed a
 
 1 Correct Option: (a)
 
-For Question 14.---------------
+For Question 11.---------------
 Explanation:
 
 Great Red Spot
@@ -549,7 +440,7 @@ planets of Earth-size.
 
 1 Correct Option: (d)
 
-For Question 15.---------------
+For Question 12.---------------
 Explanation:
 
 Evidence of the Earth’s Sphericity
@@ -582,7 +473,7 @@ curved earth
 
 1 Correct Option: (d)
 
-For Question 16.---------------
+For Question 13.---------------
 Explanation:
 
 Standard Meridian of India
@@ -599,7 +490,7 @@ Pradesh.
 
 1 Correct Option: (a)
 
-For Question 17.---------------
+For Question 14.---------------
 Explanation:
 
 Apparent movements of the Sun
@@ -640,7 +531,7 @@ the year.
 
 1 Correct Option: (a)
 
-For Question 18.---------------
+For Question 15.---------------
 Explanation:
 
 Dawn and Twilight
@@ -672,7 +563,7 @@ twilight most of the time.
 
 1 Correct Option: (c)
 
-For Question 19.---------------
+For Question 16.---------------
 Explanation:
 Oort Cloud
 
@@ -725,7 +616,7 @@ the Sun.
 
 1 Correct Option: (a)
 
-For Question 20.---------------
+For Question 17.---------------
 Explanation:
 
 Latitudes:
@@ -775,7 +666,7 @@ Equator.
 Equator.
 1 Correct Option: (b)
 
-For Question 21.---------------
+For Question 18.---------------
 Explanation:
 
 Direct Sources
@@ -811,7 +702,7 @@ magnetic field and seismic activity.
 
 1 Correct Option: (a)
 
-For Question 22.---------------
+For Question 19.---------------
 Explanation:
 
 Surface waves: These waves travel
@@ -877,7 +768,7 @@ path) similar to the light waves.
 
 2 Correct Option: (d)
 
-For Question 23.---------------
+For Question 20.---------------
 Explanation:
 
 Conrad discontinuity: The Conrad
@@ -950,7 +841,7 @@ inner core
  
 
 2 Correct Option: (d)
-For Question 24.---------------
+For Question 21.---------------
 Explanation:
 
 e All the above statements are correct
@@ -987,7 +878,7 @@ hills. One can have a view of high hills
 around the lake.
 
 2 Correct Option: (a)
-For Question 25.---------------
+For Question 22.---------------
 Explanation:
 e Option (a) is correct.
 Supplementary notes:
@@ -1057,7 +948,7 @@ could not otherwise be obtained.
 
 Correct Option: (d)
 
-For Question 26.---------------
+For Question 23.---------------
 Explanation:
 
 All the above statements are correct
@@ -1130,7 +1021,7 @@ provided with cop loans up to Rs 50000
 made available at 0% interest.
 
 2 Correct Option: (a)
-For Question 27.---------------
+For Question 24.---------------
 Explanation:
 
 Option (a) is correct: Researchers develop
@@ -1180,7 +1071,7 @@ the virus.
 
 2 Correct Option: (d)
 
-For Question 28.---------------
+For Question 25.---------------
 Explanation:
 
 Option (d) is correct: Tamil Nadu
@@ -1249,7 +1140,7 @@ Ghats as well.
 
 Correct Option: (a)
 
-For Question 29.---------------
+For Question 26.---------------
 Explanation:
 
 Sources of information about the interior
@@ -1300,111 +1191,7 @@ provide valuable information.
 
 Correct Option: (c)
 
-For Question 30.---------------
-Explanation:
-
-Geomagnetism
-
-Earth’s magnetic field comes from this ocean
-of iron which is an electrically conducting
-fluid in constant motion. Sitting atop the
-hot inner core the liquid outer core seethes
-and roils like water in a pan on a hot stove.
-The outer core also has “hurricanes”-
-whirlpools powered by the Coriolis forces
-of Earth’s rotation. These complex motions
-generate our planet’s magnetism through a
-process called the dynamo effect.
-
-The Earth has two dominant magnetic
-poles and several very weak
-‘quadrupolar’ poles of which there
-are at least mathematically about 8
-in number. These poles are far weaker
-than the dipole field and measure only
-weak departures of the local geographic
-field strength from the basic dipolar North-
-South field.
-
-Approximately geomagnetic dipole is
-currently tilted at an angle of about
-11 degrees to Earth’s rotational axis.
-At the moment it’s located in northern
-Canada.
-
-Earth’s polarity is not a constant and it
-keeps changing. Compass needles in Africa
-for instance are drifting about 1 degree per
-decade. And globally the magnetic field has
-weakened 10% since the 19th century.
-
-Sometimes the field completely
-flips. The north and the south poles
-swap places. Such reversals recorded
-in the magnetism of ancient rocks are
-unpredictable. They come at irregular
-intervals averaging about 300000 years.
-
-A new study examines the periodicity of
-geomagnetic field reversals on Earth back
-to 375 million years ago.
-
-
-
-Correct Option: (a)
-
-For Question 31.---------------
-Explanation:
-
-Sources of information about the interior
-of the Earth
-
-There aretwotypes of sources of information
-about the interior of the Earth viz. Direct
-and Indirect.
-
-Direct sources
-
-The sources which are obtained directly
-from Earth’s interior are called Direct
-sources.
-
-These include materials obtained from
-Mining or from scientific projects such
-as “Deep Ocean Drilling Project” &
-“Integrated Ocean Drilling Project” and the
-Magma/Lava obtained from a volcanic
-eruption etc.
-
-The drilling projects provide better sources
-of information than mining because they
-can provide materials from the depth as
-far as 12 km while in mining going beyond
-3-4 km depth is not possible due to high
-temperature and pressure at this depth.
-
-Indirect sources
-
-These are the sources that are not obtained
-directly from the Earth’s interior but help
-in the understanding of the same.
-
-These include earthquake waves;
-materials obtained from meteors;
-earth’s gravitation magnetic & seismic
-activities and the variability oftemperature
-pressure and density of the Earth etc.
-
-Although the materials obtained from
-meteors are not from the Earth these
-are similar to the Earth hence they
-provide valuable information.
-
-
-
-Correct Option: (c)
-
-For Question 32.---------------
+For Question 27.---------------
 Explanation:
 
 Geomagnetism
@@ -1469,7 +1256,7 @@ pets
 
  Correct Option: (b)
 
-For Question 33.---------------
+For Question 28.---------------
 Explanation:
 
 Earth’s layers
@@ -1524,7 +1311,7 @@ the mantle and the outer core.
 
 Correct Option: (a)
 
-For Question 34.---------------
+For Question 29.---------------
 Explanation:
 
 Composition of Earth’s Crust
@@ -1582,7 +1369,7 @@ B Oxygen
 
 Correct Option: (c)
 
-For Question 35.---------------
+For Question 30.---------------
 Explanation:
 
 Exogenetic geomorphic process
@@ -1604,7 +1391,7 @@ and cementation.
 
 Correct Option: (c)
 
-For Question 36.---------------
+For Question 31.---------------
 Explanation:
 Rocks
 
@@ -1670,7 +1457,7 @@ into schist and coal into graphite.
 
 Correct Option: (b)
 
-For Question 37.---------------
+For Question 32.---------------
 Explanation:
 
 Feldspar
@@ -1699,7 +1486,7 @@ It is green or black in color.
 
 Correct Option: (c)
 
-For Question 38.---------------
+For Question 33.---------------
 Explanation:
 
 Rock Cycle
@@ -1739,6 +1526,7 @@ source for igneous rocks.
 
  Correct Option: (c)
 
+For Question 34.---------------
 Explanation
 
 Metamorphic rocks
@@ -1781,6 +1569,7 @@ fossils.
 
 1 Correct Option: (a)
 
+For Question 35.---------------
 Explanation
 
 Minerals:
@@ -1804,7 +1593,7 @@ recognized as minerals.
 
 1 Correct Option: (c)
 
-For Question 39.---------------
+For Question 36.---------------
 Explanation:
 
 Physical weathering
@@ -1830,7 +1619,7 @@ Animal and plant activity etc.
 
 1 Correct Option: (d)
 
-For Question 40.---------------
+For Question 37.---------------
 Explanation:
 
 Process of Erosion
@@ -1860,7 +1649,7 @@ and removed in solution.
 
 1 Correct Option: (d)
 
-For Question 41.---------------
+For Question 38.---------------
 Explanation:
 
 Cryosols
@@ -1903,7 +1692,7 @@ free areas of Antarctica.
 
 1 Correct Option: (c)
 
-For Question 42.---------------
+For Question 39.---------------
 Explanation:
 
 Laterite Soil
@@ -1945,7 +1734,7 @@ areas of Odisha and Assam.
 
 1 Correct Option: (b)
 
-For Question 43.---------------
+For Question 40.---------------
 Explanation:
 
 Red and Yellow soil
@@ -1975,7 +1764,7 @@ nitrogen phosphorous and humus.
 
 1 Correct Option: (b)
 
-For Question 44.---------------
+For Question 41.---------------
 Explanation:
 
 Alluvial Soils
@@ -2033,7 +1822,7 @@ Alluvial soils arc intensively cultivated.
 
 1 Correct Option: (c)
 
-For Question 45.---------------
+For Question 42.---------------
 Explanation:
 
 Soils in India
@@ -2074,7 +1863,7 @@ compound are left behind.
 
 1 Correct Option: (a)
 
-For Question 46.---------------
+For Question 43.---------------
 Explanation:
 
 Laterite Soil
@@ -2124,7 +1913,7 @@ Assam.
 
 1 Correct Option: (d)
 
-For Question 47.---------------
+For Question 44.---------------
 Explanation:
 
 Saline and Alkaline Soils
@@ -2150,7 +1939,7 @@ because of this.
 
 2 Correct Option: (a)
 
-For Question 48.---------------
+For Question 45.---------------
 Explanation:
 
 Acid Rocks:
@@ -2201,7 +1990,7 @@ relatively easily.
 
 2 Correct Option: (a)
 
-For Question 49.---------------
+For Question 46.---------------
 Explanation:
 
 Option (a) is correct: It is a recently
@@ -2229,7 +2018,7 @@ Himalayas.
 
 2 Correct Option: (a)
 
-For Question 50.---------------
+For Question 47.---------------
 Explanation:
 
 Option (a) is correct: Correct order is
@@ -2240,7 +2029,7 @@ Badrinath.
 
 2 Correct Option: (c)
 
-For Question 51.---------------
+For Question 48.---------------
 Explanation:
 
 Option (c) is correct.
@@ -2264,7 +2053,7 @@ two different routes - Lipulekh Pass
 
 24 Correct Option: (c)
 
-For Question 52.---------------
+For Question 49.---------------
 Explanation:
 
 Both the statements are correct
@@ -2312,7 +2101,7 @@ water of the Chilika Lagoon.
 
 2 Correct option: (b) from Asia having travelled through the
 i Suez Canal.
-For Question 53.---------------
+For Question 50.---------------
 Explanation:
 
 e Option (b) is correct: Strait of Gibraltar
@@ -2346,7 +2135,7 @@ GSkieelits
 
  Correct Option: (a)
 
-For Question 54.---------------
+For Question 51.---------------
 Explanation:
 
 Diastrophism
@@ -2375,7 +2164,7 @@ orogenic movements.
 
  Correct Option: (a)
 
-For Question 55.---------------
+For Question 52.---------------
 Explanation:
 
 Geomorphic process
@@ -2412,116 +2201,7 @@ ultimately from the Sun.
 
  Correct Option: (a)
 
-For Question 56.---------------
-Explanation:
-
-Volcano
-
-A volcano is a place where gases ashes
-and/or molten rock material — lava — escape
-to the ground through fissures and faults
-etc.
-
-It is from the asthenosphere that the
-molten rock materials find their way to the
-surface.
-
-If the materials remain below the surface
-it is called magma.
-
-If the materials find a way to come out on
-the surface it is called lava.
-
-These magma and lava forms different types
-of structure called Volcanic Landforms.
-These landforms can be extrusive or
-intrusive.
-
-Intrusive landforms
-
-When the magma remains within the
-lithosphere cools over there and forms
-different types of structure are called
-intrusive landforms. These include
-Lacoliths Phacoliths Lapoliths Sills
-Dykes and Batholiths etc.
-
-Large bodies of magmatic material that
-cools in the deeper depth of the crust and
-develop in the form of large domes are
-Batholiths. These are the cooled portion of
-
-
-
- Correct Option: (a)
-
-For Question 57.---------------
-Explanation:
-
-Diastrophism
-Endogenic movements are divided into
-diastrophic movements and _ sudden
-movements.
-
-Diastrophism refers tothe deformation
-of the Earth’s crust.
-
-All processes that move elevate or build
-up portions of the earth’s crust come under
-diastrophism.
-
-Diastrophic movements are gradual
-and might stretch for thousands of
-years.
-
-On the other hand sudden movements like
-earthquakes and volcanic eruptions occur
-in a very short period.
-
-Diastrophic movements are further
-classified into epeirogenic movements and
-orogenic movements.
-
- Correct Option: (a)
-
-For Question 58.---------------
-Explanation:
-
-Geomorphic process
-
-Geomorphic processes are the physical
-and chemical processes that take place
-on the earth’s surface (folding faulting
-weathering erosion etc.) due to endogenic
-and exogenic forces.
-
-Earth’s crust and its surface are constantly
-evolving (changing) due to various forces
-emanating from below (endogenic forces)
-as well as above the surface of the earth
-(exogenic forces).
-
-Endogenic processes include folding
-faulting warping volcanism thus they
-cause upliftment. Exogenic processes
-include weathering and erosion hence
-degradation. But both of them are
-needed to shape the landforms on the
-
-Earth.
-
-The ultimate source of energy behind
-forces that drive endogenic movements
-is the Earth’s internal heat due to
-radioactive decay and the gravitation.
-
-The exogenic processes derive their
-energy from the atmosphere and
-ultimately from the Sun.
-
- Correct Option: (a)
-
-For Question 59.---------------
+For Question 53.---------------
 Explanation:
 
 Volcano
@@ -2586,7 +2266,7 @@ concave to the sky.
 
  Correct Option: (b)
 
-For Question 60.---------------
+For Question 54.---------------
 Explanation:
 
 Earthquake
@@ -2742,7 +2422,7 @@ trajectory that is counterclockwise.
 
 Correct Option: (d)
 
-For Question 61.---------------
+For Question 55.---------------
 Explanation:
 
 Measurement of Earthquakes
@@ -2797,7 +2477,7 @@ Earthquake.
 
  Correct Option: (d)
 
-For Question 62.---------------
+For Question 56.---------------
 Explanation:
 
 Extrusive Landforms
@@ -2875,7 +2555,7 @@ fragments that have been built around a
 volcanic vent.
 
 Correct Option: (a)
-For Question 63.---------------
+For Question 57.---------------
 Explanation:
 
 Distribution of volcanoes
@@ -2940,7 +2620,7 @@ are’ parallel and to the west of the
 Puerto Rico Trench.
 
 Correct Option: (a)
-For Question 64.---------------
+For Question 58.---------------
 Explanation:
 
 Continental Drift Theory
@@ -3030,7 +2710,7 @@ at the contiguous lands. Etc.
 
 1 Correct Option: (d)
 
-For Question 65.---------------
+For Question 59.---------------
 Explanation:
 
 Reasons for rejection
@@ -3061,7 +2741,7 @@ than the Continents. Etc.
 
 
 1 Correct Option: (c)
-For Question 66.---------------
+For Question 60.---------------
 Explanation:
 
 Seafloor spreading
@@ -3134,7 +2814,7 @@ heated state.
 
 1 Correct Option: (b)
 
-For Question 67.---------------
+For Question 61.---------------
 Explanation:
 
 Some important minor plates are listed
@@ -3159,7 +2839,7 @@ Fuji plate: North-east of Australia.
 
 1 Correct Option: (b)
 
-For Question 68.---------------
+For Question 62.---------------
 Explanation:
 
 Postulates of the Plate Tectonic Theory
@@ -3223,7 +2903,7 @@ the Mediterranean Sea etc.
 
 1 Correct Option: (c)
 
-For Question 69.---------------
+For Question 63.---------------
 Explanation:
 
 Rate of plate movement
@@ -3254,7 +2934,7 @@ cm/yr.
 
 1 Correct Option: (b)
 
-For Question 70.---------------
+For Question 64.---------------
 Explanation:
 
 Types of Fold mountains
@@ -3282,7 +2962,7 @@ Himalayas etc.
 
 1 Correct Option: (c)
 
-For Question 71.---------------
+For Question 65.---------------
 Explanation:
 
 Divergent Plate boundaries
@@ -3332,7 +3012,7 @@ coast of North America
 
 1 Correct Option: (b)
 
-For Question 72.---------------
+For Question 66.---------------
 Explanation:
 
 Types of Folds
@@ -3388,7 +3068,7 @@ Fold.
 
 1 Correct Option: (a)
 
-For Question 73.---------------
+For Question 67.---------------
 Explanation:
 
 Volcanism
@@ -3430,7 +3110,7 @@ therefore steep sided.
 
 1 Correct Option: (d)
 
-For Question 74.---------------
+For Question 68.---------------
 Explanation:
 The Circum Pacific Belt:
 
@@ -3516,7 +3196,7 @@ etc.
 
 2 Correct Option: (c)
 
-For Question 75.---------------
+For Question 69.---------------
 Explanation:
 
 Earthquake
@@ -3597,7 +3277,7 @@ considered as the most damaging one.
 
 2 Correct Option: (c)
 
-For Question 76.---------------
+For Question 70.---------------
 Explanation:
 
 e Both the statements are correct
@@ -3624,7 +3304,7 @@ organizations and businesses.
 
 2 Correct Option: (b)
 
-For Question 77.---------------
+For Question 71.---------------
 Explanation:
 
 e Statement 1 is incorrect: The report
@@ -3691,7 +3371,7 @@ understanding.
 
 2 Correct Option: (c)
 
-For Question 78.---------------
+For Question 72.---------------
 Explanation:
 
 e Both the statements are correct
@@ -3750,7 +3430,7 @@ CAMPA works etc.
 
 2 Correct Option: (a) °
 
-For Question 79.---------------
+For Question 73.---------------
 Explanation:
 e Option (a) is correct: 90-90-90 is an
 
@@ -3778,7 +3458,7 @@ India is pivotal to the global fight back
 against AIDS.
 
 2 Correct Option: (a)
-For Question 80.---------------
+For Question 74.---------------
 Explanation:
 
 Statement 2 is incorrect: The biggest
@@ -3840,7 +3520,7 @@ levels of severity.
 
 
 Correct Option: (a)
-For Question 81.---------------
+For Question 75.---------------
 Explanation:
 
 Landforms by Running water
@@ -3878,7 +3558,7 @@ e The depositional landforms are Stalactites
 Stalagmites etc.
 
 Correct Option: (b)
-For Question 82.---------------
+For Question 76.---------------
 Explanation:
 
 Landforms by running water
@@ -3924,7 +3604,7 @@ are vertically eroded by the rejuvenated
 stream.
 
 Correct Option: (c)
-For Question 83.---------------
+For Question 77.---------------
 Explanation:
 
 Types of Deltas
@@ -3980,7 +3660,7 @@ distributaries making it look like a bird’s
 foot. Example- Mississippi River.
 
 Correct Option: (d)
-For Question 84.---------------
+For Question 78.---------------
 Explanation:
 
 Alluvial cones and fans
@@ -4006,7 +3686,7 @@ alluvial fans get combined it forms
 foothill plains or Terai region.
 
 Correct Option: (c)
-For Question 85.---------------
+For Question 79.---------------
 Explanation:
 
 Karst Topography
@@ -4034,7 +3714,7 @@ e Some of the landforms are Cavern Sink
 Hole Stalactite and Stalagmite etc.
 
 Correct Option: (c)
-For Question 86.---------------
+For Question 80.---------------
 Explanation:
 
 Lagoons
@@ -4053,7 +3733,7 @@ by sediments from the land giving rise to a
 coastal plain.
 
 Correct Option: (a)
-For Question 87.---------------
+For Question 81.---------------
 Explanation:
 
 Beaches
@@ -4072,7 +3752,7 @@ e These are fonned when the sea is calm
 and winds are of low velocity.
 
 Correct Option: (c)
-For Question 88.---------------
+For Question 82.---------------
 Explanation:
 Snow Line
 
@@ -4102,6 +3782,7 @@ height of the snowline is 6000m whereas
 in the Himalayas it is 5500m.
 
 Correct Option: (a)
+For Question 83.---------------
 Explanation
 
 Aeolian landforms
@@ -4129,7 +3810,7 @@ mud along the bottom and around the
 edges of the depression.
 
 Correct Option: (c)
-For Question 89.---------------
+For Question 84.---------------
 Explanation:
 
 Coral reefs and their probable evolution
@@ -4219,7 +3900,7 @@ coral reefs and atolls.
 
 1 Correct Option: (a)
 
-For Question 90.---------------
+For Question 85.---------------
 Explanation:
 
 The Course of a River
@@ -4266,7 +3947,7 @@ sea level.
 
 1 Correct Option: (a)
 
-For Question 91.---------------
+For Question 86.---------------
 Explanation:
 
 Depositional Landforms by Groundwater
@@ -4306,7 +3987,7 @@ and pillars of different diameters.
 
 1 Correct Option: (c)
 
-For Question 92.---------------
+For Question 87.---------------
 Explanation:
 
 Depositional Landforms
@@ -4453,7 +4134,7 @@ lakes.
 
 1 Correct Option: (d)
 
-For Question 93.---------------
+For Question 88.---------------
 Explanation:
 
 Erosional Landforms
@@ -4509,7 +4190,7 @@ playa plain covered up by salts is called
 alkali flats.
 1 Correct Option: (c)
 
-For Question 94.---------------
+For Question 89.---------------
 Explanation:
 
 Depositional Landforms
@@ -4561,7 +4242,7 @@ are beautifully rounded by abrasion.
 
 1 Correct Option: (c)
 
-For Question 95.---------------
+For Question 90.---------------
 Explanation:
 
 Coastal landforms
@@ -4606,7 +4287,7 @@ veer in the same direction.
 
 1 Correct Option: (b)
 
-For Question 96.---------------
+For Question 91.---------------
 Explanation:
 
 Ground Water
@@ -4628,7 +4309,7 @@ insignificant in developing landforms.
 
 1 Correct Option: (b)
 
-For Question 97.---------------
+For Question 92.---------------
 Explanation:
 
 Depositional Landforms
@@ -4766,7 +4447,7 @@ table can form into lakes.
 
 1 Correct Option: (d)
 
-For Question 98.---------------
+For Question 93.---------------
 Explanation:
 
 Moraine
@@ -4801,7 +4482,7 @@ as ground moraine.
 
 2 Correct Option: (a)
 
-For Question 99.---------------
+For Question 94.---------------
 Explanation:
 
 Low Sedimentary Coasts
@@ -4821,7 +4502,7 @@ dominate.
 
 2 Correct Option: (d)
 
-For Question 100.---------------
+For Question 95.---------------
 Explanation:
 
 All the statements are correct.
@@ -4896,7 +4577,7 @@ System (PDS) respectively.
 
 2 Correct Option: (d)
 
-For Question 101.---------------
+For Question 96.---------------
 Explanation:
 
 Statement 1 is incorrect: Soft corals are
@@ -4963,7 +4644,7 @@ outlook for Great Barrier Reef to ‘very poor’
 for the first time.
 
 Correct Option: (a)
-For Question 102.---------------
+For Question 97.---------------
 Explanation:
 
 e Statement 2 is incorrect: The biggest
@@ -5028,7 +4709,7 @@ levels of severity.
 
 Correct Option: (a)
 
-For Question 103.---------------
+For Question 98.---------------
 Explanation:
 e Option (a) is correct: 90-90-90 is an
 
@@ -5054,7 +4735,7 @@ against AIDS.
 
 Correct Option: (b)
 
-For Question 104.---------------
+For Question 99.---------------
 Explanation:
 e Option (b) is correct: Tardigrade can
 
@@ -5082,7 +4763,7 @@ of being on the moon.
 
 
 Correct Option: (a)
-For Question 105.---------------
+For Question 100.---------------
 Explanation:
 
 The difference between weather and
@@ -5113,7 +4794,7 @@ a good deal of sense when people say that
 ‘Egypt has no weather only climate’.
 
 Correct Option: (a)
-For Question 106.---------------
+For Question 101.---------------
 Explanation:
 
 Forees Affecting the speed and Direction
@@ -5176,117 +4857,7 @@ e It is greatest at the surface and over the
 sea surface it is minimal.
 
 Correct Option: (c)
-For Question 107.---------------
-Explanation:
-
-Atmospheric Pressure
-
-e It is the force per unit area exerted
-against a surface by the weight of the
-air above that surface.
-
-e In other words it is the weight of a
-column of air contained in a unit area
-from the mean sea level to the top of
-
-
-
-Correct Option: (a)
-For Question 108.---------------
-Explanation:
-
-The difference between weather and
-climate
-
-e Weather is the state of the atmosphere
-at a particular place and time as regards
-heat cloudiness dryness sunshine wind
-rain etc. Whereas the average weather
-conditions prevalent from one season to
-another in the course of a year over a large
-area is known as climate. The average of
-these weather conditions is calculated from
-the data collected for several years (about
-35 years) for a larger area.
-
-e The weather or climate can or cannot
-change in a region.
-
-e Generally the climate of temperate
-latitudes is far more variable than that
-of the tropics. For instance The climate
-of the British Isles is so changeable that
-many people have said that ‘Britain has
-no climate only weather’. Conversely the
-climate of Egypt is so static that it makes
-a good deal of sense when people say that
-‘Egypt has no weather only climate’.
-
-Correct Option: (a)
-For Question 109.---------------
-Explanation:
-
-Forees Affecting the speed and Direction
-of Wind
-
-e The movement of air in the horizontal
-direction is called wind.
-
-e The wind are under influence of the
-pressure gradient force(PGF) the frictional
-force and the Coriolis force.
-
-Pressure Gradient Force (PGF)
-
-e It is the rate of change of pressure with
-respect to distance.
-
-e It is perpendicular to the isobars
-(parallel lines connecting the same
-atmospheric level). Hence PGF is strong
-
-where the isobars are close to each other
-and it is weak where the isobars are apart.
-
-e If PGF is high wind speed will be more.
-
-Coriolis force
-
-e The rotation of the earth about its axis
-affects the direction of the wind.
-
-e This force is called the Coriolis force (a
-pseudo force exerted on a moving object
-i.e. wind by the rotating non-inertial frame
-observer).
-
-e Itismaximum atthe poles and is zero at the
-equator because it is directly proportional
-to the angle of latitude.
-
-e The Coriolis force acts perpendicular
-to the pressure gradient force. Hence
-it does not have a role in wind speed.
-
-e It has a role only in the direction of
-wind. In doing so it deflects the wind
-to the right direction in the northern
-hemisphere and to the left in the southern
-hemisphere.
-
-Frictional force
-
-e It is due to friction between the features
-(natural and man-made both) of the Earth
-and wind.
-
-e It affects the speed of the wind.
-e It is greatest at the surface and over the
-
-sea surface it is minimal.
-
-Correct Option: (c)
-For Question 110.---------------
+For Question 102.---------------
 Explanation:
 
 Atmospheric Pressure
@@ -5366,7 +4937,7 @@ places having equal pressure) at constant
 levels.
 
 Correct Option: (d)
-For Question 111.---------------
+For Question 103.---------------
 Explanation:
 
 Ionosphere
@@ -5419,7 +4990,7 @@ the F region into 2 layers. Thus the size
 of the ionosphere is not fixed.
 
 Correct Option: (c)
-For Question 112.---------------
+For Question 104.---------------
 Explanation:
 
 Thermosphere
@@ -5444,7 +5015,7 @@ low Earth orbit satellites.
 
 
 Correct Option: (d)
-For Question 113.---------------
+For Question 105.---------------
 Explanation:
 
 Redistribution of water
@@ -5504,7 +5075,7 @@ e Further Wind the most important factor of
 the Ocean Current.
 
 Correct Option: (c)
-For Question 114.---------------
+For Question 106.---------------
 Explanation:
 Clouds
 
@@ -5558,7 +5129,7 @@ e These are extremely dense and opaque
 to the rays of the sun.
 
 Correct Option: (c)
-For Question 115.---------------
+For Question 107.---------------
 Explanation:
 
 Cloud formation
@@ -5605,7 +5176,7 @@ the freezing point.
 
  Correct option: (d)
 
-For Question 116.---------------
+For Question 108.---------------
 Explanation:
 
 Types of Precipitation
@@ -5649,7 +5220,7 @@ polar fronts.
 
 1 Correct Option: (a)
 
-For Question 117.---------------
+For Question 109.---------------
 Explanation:
 
 Factors
@@ -5705,7 +5276,7 @@ the cold currents flow.
 
 1 Correct Option: (c)
 
-For Question 118.---------------
+For Question 110.---------------
 Explanation:
 
 Atmosphere
@@ -5732,7 +5303,7 @@ of 1000 km.
 
 1 Correct option: (b)
 
-For Question 119.---------------
+For Question 111.---------------
 Explanation:
 Inversion of Temperature
 
@@ -5777,7 +5348,7 @@ these layers correspondingly.
 
 1 Correct option: (d)
 
-For Question 120.---------------
+For Question 112.---------------
 Explanation:
 
 Reasons for the Season
@@ -5808,7 +5379,7 @@ the seasons on the Earth.
 
 1 Correct option: (c)
 
-For Question 121.---------------
+For Question 113.---------------
 Explanation:
 
 Albedo of the Earth
@@ -5840,7 +5411,7 @@ effects on global albedo.
 
 1 Correct Option: (b)
 
-For Question 122.---------------
+For Question 114.---------------
 Explanation:
 
 Composition of the Atmosphere
@@ -5953,7 +5524,7 @@ are the main cause of haze formation.
 
 1 Correct Option: (a)
 
-For Question 123.---------------
+For Question 115.---------------
 Explanation:
 
 Factors Affecting Climate
@@ -6057,7 +5628,7 @@ qualities vary from soil to soil.
 
 1 Correct Option: (d)
 
-For Question 124.---------------
+For Question 116.---------------
 Explanation:
 
 Upper Air Inversion
@@ -6098,7 +5669,7 @@ conditions.
 
 1 Correct Option: (c)
 
-For Question 125.---------------
+For Question 117.---------------
 Explanation:
 
 Atmospheric Humidity & Rainfall
@@ -6226,7 +5797,7 @@ or appearance and altitude.
 
 1 Correct Option: (c)
 
-For Question 126.---------------
+For Question 118.---------------
 Explanation:
 
 Conditions of Occurrence of Precipitation
@@ -6260,7 +5831,7 @@ the ground.
 
 2 Correct Option: (d)
 
-For Question 127.---------------
+For Question 119.---------------
 Explanation:
 
 Gases
@@ -6306,7 +5877,7 @@ the atmosphere as free gas as well as in the
 dissolved from.
 2 Correct option: (b)
 
-For Question 128.---------------
+For Question 120.---------------
 Explanation:
 
 Statement 1 in incorrect: Measles is a
@@ -6371,7 +5942,7 @@ first seven months this year.
 
 2 Correct option: (a)
 
-For Question 129.---------------
+For Question 121.---------------
 Explanation:
 
 Option (a) is correct: White Sea is
@@ -6414,7 +5985,7 @@ small nuclear power source.
 
 2 Correct Option: (b)
 
-For Question 130.---------------
+For Question 122.---------------
 Explanation:
 
 Option (b) is correct: Port of Douala is
@@ -6455,7 +6026,7 @@ Douala.
 
 2 Correct option: (d)
 
-For Question 131.---------------
+For Question 123.---------------
 Explanation:
 
 Option (d) is correct: Palani Hills are
@@ -6512,7 +6083,7 @@ cehISCORE
 
 2 Correct option: (b)
 
-For Question 132.---------------
+For Question 124.---------------
 Explanation:
 
 Option (b) is correct: Strait of Gibraltar
@@ -6561,7 +6132,7 @@ vessel.
 
 Correct Option: (b)
 
-For Question 133.---------------
+For Question 125.---------------
 Explanation:
 
 World pressure belts
@@ -6618,7 +6189,7 @@ Pressure Belts.
 
 Correct Option: (d)
 
-For Question 134.---------------
+For Question 126.---------------
 Explanation:
 
 Conditions favorable for the formation of
@@ -6677,7 +6248,7 @@ Mexico or Caribbean Sea.
 
  Correct Option: (b)
 
-For Question 135.---------------
+For Question 127.---------------
 Explanation:
 
 Tropical Cyclones
@@ -6732,7 +6303,7 @@ influence of Westerlies.
 
  Correct Option: (a)
 
-For Question 136.---------------
+For Question 128.---------------
 Explanation:
 
 The planetary winds
@@ -6818,7 +6389,7 @@ and ice-cap regions.
 
  Correct Option: (a)
 
-For Question 137.---------------
+For Question 129.---------------
 Explanation:
 
 Jet Stream
@@ -6880,7 +6451,7 @@ PC: NOAAA USA
 
 Correct Option: (b)
 
-For Question 138.---------------
+For Question 130.---------------
 Explanation:
 
 Tertiary Winds or Local Winds
@@ -6932,7 +6503,7 @@ pampas in the south of Brazil Argentina
 Uruguay Paraguay and Bolivia.
 
  Correct Option: (c)
-For Question 139.---------------
+For Question 131.---------------
 Explanation:
 
 Valley Breeze and Mountain Breeze
@@ -6973,7 +6544,7 @@ and often gusty katabatic wind (fall-wind)
 from the eastern Adriatic Sea.
 
  Correct Option: (a)
-For Question 140.---------------
+For Question 132.---------------
 Explanation:
 
 Atmospheric circulation
@@ -7007,7 +6578,7 @@ cooling effects in the northern and
 southern hemispheres.
 
  Correct option: (d)
-For Question 141.---------------
+For Question 133.---------------
 Explanation:
 
 Mediterranean Type
@@ -7083,7 +6654,7 @@ engineering and mining.
 
 1 Correct option: (d)
 
-For Question 142.---------------
+For Question 134.---------------
 Explanation:
 
 The
@@ -7156,7 +6727,7 @@ for fuel timber or agriculture.
 
 1 Correct Option: (b)
 
-For Question 143.---------------
+For Question 135.---------------
 Explanation:
 
 Humidity
@@ -7189,7 +6760,7 @@ greater over the oceans and least over
 the continents.
 1 Correct Option: (c)
 
-For Question 144.---------------
+For Question 136.---------------
 Explanation:
 
 Desert formation
@@ -7273,7 +6844,7 @@ little available for plants and animals.
 
 1 Correct option: (b)
 
-For Question 145.---------------
+For Question 137.---------------
 Explanation:
 
 Sudan type of Climate
@@ -7318,7 +6889,7 @@ impedes inland.
 
 1 Correct Option: (a)
 
-For Question 146.---------------
+For Question 138.---------------
 Explanation:
 
 The structure of a Tropical cyclone
@@ -7381,7 +6952,7 @@ coastal region.
 
 1 Correct Option: (a)
 
-For Question 147.---------------
+For Question 139.---------------
 Explanation:
 
 Tsunamis
@@ -7421,7 +6992,7 @@ miles (eight kilometers) inland.
 
 1 Correct Option: (c)
 
-For Question 148.---------------
+For Question 140.---------------
 Explanation:
 
 The factors responsible for variation in
@@ -7463,7 +7034,7 @@ in summer.
 
 1 Correct Option: (b)
 
-For Question 149.---------------
+For Question 141.---------------
 Explanation:
 
 Planetary Winds
@@ -7572,7 +7143,7 @@ there is less land in the middle latitudes to
 obstruct the flow.
 
 1 Correct Option: (a)
-For Question 150.---------------
+For Question 142.---------------
 Explanation:
 
 Laurentian Type of Climate
@@ -7612,7 +7183,7 @@ beech maple and birch are the principal
 trees.
 
 1 Correct option: (c)
-For Question 151.---------------
+For Question 143.---------------
 Explanation:
 
 Atmospheric Circulations
@@ -7685,7 +7256,7 @@ it.
 
 2 Correct Option: (a)
 
-For Question 152.---------------
+For Question 144.---------------
 Explanation:
 
 Thunderstorms and Tornadoes
@@ -7746,6 +7317,7 @@ returns to its stable state.
 
 2 Correct option: (a)
 
+For Question 145.---------------
 Explanation
 
 The system is in force today in three North-
@@ -7832,7 +7404,7 @@ system.
 
 2 Correct Answer (c)
 
-For Question 153.---------------
+For Question 146.---------------
 Explanation:
 
 Both the statements are correct
@@ -7988,7 +7560,7 @@ community.
 
 2 Correct Answer (b)
 
-For Question 154.---------------
+For Question 147.---------------
 Explanation:
 
 4 statement is incorrect: the union
@@ -8142,7 +7714,7 @@ officers will be used efficiently.
 
 2 Correct Answer: (a)
 
-For Question 155.---------------
+For Question 148.---------------
 Explanation:
 
 Option (a) is correct.
@@ -8223,7 +7795,7 @@ resources.
 
 2 Correct Answer (c)
 
-For Question 156.---------------
+For Question 149.---------------
 Explanation:
 e Option (c) is correct.
 
@@ -8296,7 +7868,7 @@ transport equipment
 
 Correct Option: (a)
 
-For Question 157.---------------
+For Question 150.---------------
 Explanation:
 Abyssal Plain
 
@@ -8343,121 +7915,7 @@ hundred to a thousand years.
 
 Correct Option: (a)
 
-For Question 158.---------------
-Explanation:
-The Relief of the Ocean
-
-The ocean basins are in many ways similar
-to the land surface.
-
-These are formed when the new ocean crust
-forms during plate tectonics and seafloor
-spreading.
-
-These include continental margins Abyssal
-plains and Mid-Oceanic Ridges (MOR).
-
- Continental Margin
-
-It is the intermittent region between Deep
-ocean plains and the shoreline.
-
-It is a part of continental crust submerged
-in the sea/ocean.
-
-Continental margins constitute about 28%
-of the oceanic area.
-
-It is the most productive region of the ocean
-due to very rich biodiversity.
-
-Further it is sub-divided into
-Continental shelf Continental slope
-Continental Rise and Deep-sea
-trenches
-
-Deep-sea trenches
-
-When the oceanic crust is subducted
-under continental crust along with the
-continental-oceanic crusts convergent
-boundary (the continent margin-
-abyssal plain boundary) deep-sea
-trenches are formed.
-
-Some of the example deep-sea trenches are
-the Aleutian trench Peruvian trench and
-Mariana trench (the deepest one).
-
-Abyssal plains
-
-Abyssal Plain is an underwater plain on
-the deep ocean floor.
-
-It lies between the foot of a continental
-rise and a mid-ocean ridge.
-
-Abyssal plains cover more than 50% of the
-Earth’s surface and two-thirds of the ocean
-floor.
-
-Mid-Oceanic Ridges (MOR)
-
-This forms an interconnected chain of
-mountain system within the ocean.
-
-
-
-Correct Option: (a)
-
-For Question 159.---------------
-Explanation:
-Abyssal Plain
-
-Abyssal Plain is an underwater plain on
-the deep ocean floor.
-
-It lies between the foot of a continental
-rise and a mid-ocean ridge.
-
-Abyssal plains cover more than 50% of the
-Earth’s surface and two-thirds of the ocean
-floor.
-
-It was once thought to be featureless but
-modern sounding devices reveal that the
-abyssal plain is far from being level. It
-has an extensive submarine plateau
-ridges trenches basins and oceanic
-islands that rise above sea level in
-the midst of oceans e.g. the Azores
-Ascension Islands.
-
-Creation of the abyssal plain
-
-The creation of the abyssal plain is the
-result of the spreading of the seafloor
-on both sides of a divergent boundary and
-the melting of the lower oceanic crust.
-
-Magma after rising from the asthenosphere
-and upon reaching the surface at mid-
-ocean ridges it forms a new oceanic crust
-and thereby the Abyssal Plain.
-
-Owing in part to their vast size abyssal
-plains are believed to be major reservoirs
-of biodiversity.
-
-They also exert significant influence
-upon ocean carbon cycling dissolution
-of calcium carbonate and atmospheric
-CO concentrations over time scales of a
-hundred to a thousand years.
-
-Correct Option: (a)
-
-For Question 160.---------------
+For Question 151.---------------
 Explanation:
 The Relief of the Ocean
 
@@ -8542,7 +8000,7 @@ e Itisa zone of intense volcanoes.
 e Ex- Mid Atlantic Ridges.
 
  Correct Option: (c)
-For Question 161.---------------
+For Question 152.---------------
 Explanation:
 
 Minor oceanic reliefs
@@ -8597,7 +8055,7 @@ plain
 PWS Pe cceteceedte Pactdene tee oe
 
  Correct Option: (d)
-For Question 162.---------------
+For Question 153.---------------
 Explanation:
 
 Storm surge
@@ -8644,7 +8102,7 @@ of life and property.
 
  Correct Option: (c)
 
-For Question 163.---------------
+For Question 154.---------------
 Explanation:
 
 Reliefs of the Indian Ocean
@@ -8679,7 +8137,7 @@ Tonga trench is in the Pacific ocean.
 
  Correct Option. (d)
 
-For Question 164.---------------
+For Question 155.---------------
 Explanation:
 
 Terrigenous Deposits
@@ -8707,7 +8165,7 @@ running water and wind.
 
  Correct Option: (c)
 
-For Question 165.---------------
+For Question 156.---------------
 Explanation:
 
 Pelagic Deposits
@@ -8749,7 +8207,7 @@ than half of the Pacific floor.
 
  Correct Option: (a)
 
-For Question 166.---------------
+For Question 157.---------------
 Explanation:
 
 Marginal Seas
@@ -8776,7 +8234,7 @@ of Zanj.
 
 1 Correct Option: (d)
 
-For Question 167.---------------
+For Question 158.---------------
 Explanation:
 
 Oceanic circulation
@@ -8805,6 +8263,7 @@ and Salinity difference.
 
 1 Correct Option: (c)
 
+For Question 159.---------------
 Explanation
 
 Gyres
@@ -8901,7 +8360,7 @@ rotating ocean currents.
 
 1 Correct Option: (a)
 
-For Question 168.---------------
+For Question 160.---------------
 Explanation:
 
 Ocean Currents
@@ -8941,7 +8400,7 @@ important fishing grounds is created.
 
 1 Correct Option: (a)
 
-For Question 169.---------------
+For Question 161.---------------
 Explanation:
 
 Salinity distribution
@@ -8969,7 +8428,7 @@ earth.
 
 1 Correct Option (c)
 
-For Question 170.---------------
+For Question 162.---------------
 Explanation:
 Tides
 
@@ -9021,7 +8480,7 @@ bore.
 
 1 Correct option: (b)
 
-For Question 171.---------------
+For Question 163.---------------
 Explanation:
 
 Isotherms
@@ -9067,7 +8526,7 @@ open seas.
 
 1 Correct option: (c)
 
-For Question 172.---------------
+For Question 164.---------------
 Explanation:
 
 Ground Water Resource
@@ -9126,7 +8585,7 @@ groundwater poor region.
 
 1 Correct Option: (d)
 
-For Question 173.---------------
+For Question 165.---------------
 Explanation:
 
 Major Division of Ocean Hour
@@ -9261,7 +8720,7 @@ generally flat relief.
 
 1 Correct Option: (b)
 
-For Question 174.---------------
+For Question 166.---------------
 Explanation:
 
 Reasons for the Varying Salinity of the Sea
@@ -9367,7 +8826,7 @@ important currents in Pacific Ocean the
 Atlantic Ocean and the Indian Ocean.
 
 1 Correct Option: (d)
-For Question 175.---------------
+For Question 167.---------------
 Explanation:
 
 Types of Tides
@@ -9453,7 +8912,7 @@ the tide is rising is called the flow or flood.
 
 2 Correct Option: (c)
 
-For Question 176.---------------
+For Question 168.---------------
 Explanation:
 
 The Circulation of the Atlantic Ocean
@@ -9566,7 +9025,7 @@ Current.
 
 2 Correct Option: (c)
 
-For Question 177.---------------
+For Question 169.---------------
 Explanation:
 
 The Oceanic Deposits of the Ocean Floor
@@ -9614,6 +9073,7 @@ during volcanic eruptions.
 
 2 Correct option: (a)
 
+For Question 170.---------------
 Explanation
 
 The Chicago Convention (also known as
@@ -9659,6 +9119,7 @@ airspace of other states.
 
 2 Correct answer: (a)
 
+For Question 171.---------------
 Explanation
 
 e India’s first hybrid annuity model (HAM)
@@ -9701,6 +9162,7 @@ Rs.20000 Crore.
 
 2 Correct answer: (d)
 
+For Question 172.---------------
 Explanation
 e Volcanic eruption in White Island of New
 Zealand
@@ -9735,7 +9197,7 @@ crater floor onto some of the crater walls.
 
 2 Correct Answer: (a)
 
-For Question 178.---------------
+For Question 173.---------------
 Explanation:
 e Option (a) is correct answer
 
@@ -9763,7 +9225,7 @@ in a statement.
 
 2 Correct Option (d)
 
-For Question 179.---------------
+For Question 174.---------------
 Explanation:
 
 e All statements are correct
@@ -9838,7 +9300,7 @@ fisheries and to regulate the climate.
 
  Correct Option: (a)
 
-For Question 180.---------------
+For Question 175.---------------
 Explanation:
 
 Evolution of the Himalayas
@@ -9862,7 +9324,7 @@ the Greater and the Lesser Himalayas.
 
  Correct Option: (c)
 
-For Question 181.---------------
+For Question 176.---------------
 Explanation:
 
 Active faults of the Himalayas
@@ -9907,99 +9369,7 @@ the southern-most and the youngest
 thrust.
 
 Correct Option: (c)
-For Question 182.---------------
-Explanation:
-
-Hills of the Peninsular India
-
-e Most of the hills in the peninsular region
-are of the relict type (residual hills).
-
-e Guru Sikhar (1722 m) the highest peak of
-Aravali range.
-
-e Satpura range is a series of seven
-mountains. Dhupgarh (1350 m) near
-Pachmarhi on Mahadev Hills is the
-highest peak. Amarkantak (1127 m) is
-another important peak.
-
-e Anai Mudi (2695 m) is the highest peak in
-the whole of Peninsular India.
-
-
- Correct Option: (a)
-
-For Question 183.---------------
-Explanation:
-
-Evolution of the Himalayas
-
-Approx 10 million years ago all the ranges
-of Himalayas got fully developed.
-
-The Greater Himalayas were formed in
-the Eocene and Oligocene periods of the
-
-Cenozoic era.
-
-The lesser Himalayas were formed due to
-the folding of the Potwar sediments in the
-Miocene period.
-
-The Shiwaliks were formed in the Pliocene
-period due to the sediments brought from
-
-the Greater and the Lesser Himalayas.
-
- Correct Option: (c)
-
-For Question 184.---------------
-Explanation:
-
-Active faults of the Himalayas
-
-The frontal zone of the Himalaya is most
-
-active at present.
-
-The geology of the Himalayas on its
-southern side is characterized by three
-major tectonic units: The Main Central
-Thrust (MCT) the Main Boundary Thrust
-(MBT) and the Himalayan Frontal Thrust
-(HFT) or the Main Frontal Thrust (MFT).
-
-These structures essentially separate the
-different rocky formations that characterize
-the different stages of the Himalayan
-outcrop—the higher Himalayas the
-lesser Himalayas and the sub-Himalayan
-Shivalik range.
-
-
- 
-
-
-
-erent
-ica ly
-
-e The highest and the oldest of these
-is the MCT which is a north-dipping
-fault and marks the tectonic contact
-between the higher and the lesser
-Himalayas.
-
-e The lesser and the sub-Himalayas are
-separated by the MBT.
-
-e The HFT or the MFT constitutes
-the southern-most and the youngest
-thrust.
-
-Correct Option: (c)
-For Question 185.---------------
+For Question 177.---------------
 Explanation:
 
 Hills of the Peninsular India
@@ -10033,7 +9403,7 @@ important peaks.
 
  Correct Option: (d)
 
-For Question 186.---------------
+For Question 178.---------------
 Explanation:
 
 Importance of the Himalayas
@@ -10092,7 +9462,7 @@ found bere.
 
  Correct Option: (a)
 
-For Question 187.---------------
+For Question 179.---------------
 Explanation:
 
 Himalayas
@@ -10135,7 +9505,7 @@ Shivalik.
 
  Correct Option: (d)
 
-For Question 188.---------------
+For Question 180.---------------
 Explanation:
 
 Himalayas
@@ -10192,7 +9562,7 @@ rivers flowing from the higher ranges.
 
 Correct Option: (b)
 
-For Question 189.---------------
+For Question 181.---------------
 Explanation:
 
 Kashmir valley
@@ -10230,7 +9600,7 @@ lacustrine and aeolian in origin.
 
 Correct Option: (a)
 
-For Question 190.---------------
+For Question 182.---------------
 Explanation:
 
 Country: length of border (in Kms)
@@ -10249,7 +9619,7 @@ Afghanistan: 106
 
 Correct Option: (c)
 
-For Question 191.---------------
+For Question 183.---------------
 Explanation:
 
 Rock system of India
@@ -10348,7 +9718,7 @@ this period.
 
 1 Correct Option: (b)
 
-For Question 192.---------------
+For Question 184.---------------
 Explanation:
 
 North Indian Plains
@@ -10399,7 +9769,7 @@ reaches of the Ganga River.
 
 1 Correct Option: (a)
 
-For Question 193.---------------
+For Question 185.---------------
 Explanation:
 
 Passes of Peninsular India
@@ -10421,7 +9791,7 @@ Goram Ghat is south of Mount Abu
 
 1 Correct Option: (a)
 
-For Question 194.---------------
+For Question 186.---------------
 Explanation:
 
 Passes of
@@ -10451,7 +9821,7 @@ west to the Bom Di La.
 
 1 Correct Option: (b)
 
-For Question 195.---------------
+For Question 187.---------------
 Explanation:
 
 Coasts of India
@@ -10488,7 +9858,7 @@ example of an emergent coast.
 
 1 Correct Option: (d)
 
-For Question 196.---------------
+For Question 188.---------------
 Explanation:
 
 River islands of India
@@ -10527,7 +9897,7 @@ Madhya Pradesh.
 
 1 Correct Option: (b)
 
-For Question 197.---------------
+For Question 189.---------------
 Explanation:
 
 Indian islands
@@ -10563,7 +9933,7 @@ disappearing.
 
 1 Correct Option: (a)
 
-For Question 198.---------------
+For Question 190.---------------
 Explanation:
 
 Mountain Passes
@@ -10600,7 +9970,7 @@ exchange ideas and culture.
 
 1 Correct Option: (b)
 
-For Question 199.---------------
+For Question 191.---------------
 Explanation:
 
 Himalayan Mountains
@@ -10674,7 +10044,7 @@ Dun and Patli Dun.
 
 1 Correct Option: (c)
 
-For Question 200.---------------
+For Question 192.---------------
 Explanation:
 
 The Deccan Plateau
@@ -10715,7 +10085,7 @@ in the south.
 
 1 Correct Option: (c)
 
-For Question 201.---------------
+For Question 193.---------------
 Explanation:
 
 The Coastal Plains
@@ -10758,7 +10128,7 @@ located at Malabar Coast.
 
 2 Correct Option: (b)
 
-For Question 202.---------------
+For Question 194.---------------
 Explanation:
 The Islands
 
@@ -10791,6 +10161,7 @@ popular.
 
 2 Correct option: (c)
 
+For Question 195.---------------
 Explanation
 
 Statement 3 is incorrect: It is placed
@@ -10897,6 +10268,7 @@ and hunt.
 
 2 Correct option: (d)
 
+For Question 196.---------------
 Explanation
 
 The Ministry of Commerce and Industry
@@ -11023,6 +10395,7 @@ cEJSCORE
 
 2 Correct option: (b)
 
+For Question 197.---------------
 Explanation
 
 D Prabhakaran committee suggested
@@ -11107,7 +10480,7 @@ death in the country.
 
 2 Correct Option (c)
 
-For Question 203.---------------
+For Question 198.---------------
 Explanation:
 
 Statements 1 and 3 are correct
@@ -11163,7 +10536,7 @@ and attempts to exterminate them
 Yazidis have kept alive their
 syncretic religion for centuries.
 2 Correct Option (b)
-For Question 204.---------------
+For Question 199.---------------
 Explanation:
 
 e Statements 1 and 3 are correct
@@ -11239,7 +10612,7 @@ community participation.
 
  Correct Option: (d)
 
-For Question 205.---------------
+For Question 200.---------------
 Explanation:
 
 Evolution of the Himalayan rivers
@@ -11295,7 +10668,7 @@ drainage system towards the Bay of Bengal
 during the same period.
 
  Correct Option: (d)
-For Question 206.---------------
+For Question 201.---------------
 Explanation:
 
 Shifting of rivers
@@ -11328,116 +10701,7 @@ the course of the rivers and later
 shifting.
 
  Correct Option: (b)
-For Question 207.---------------
-Explanation:
-
-Manas-Sankosh-Teesta-Ganga (MSTG)
-
-link
-
-e Manas-Sankosh-Teesta-Ganga (MSTG)
-link is proposed under the Himalayan
-Component of National Perspective Plan
-
-(NPP).
-
-e TheMSTG link canal envisages diversion
-of the surplus waters of Manas and
-Sankosh rivers with supplementation
-
-
- Correct Option: (d)
-
-For Question 208.---------------
-Explanation:
-
-Evolution of the Himalayan rivers
-
-During the Miocene period Shiwalik or
-Indo-Brahma river traversed the entire
-longitudinal extent of the Himalaya from
-Assam to Punjab and finally discharged into
-the Gulf of Sind The remarkable continuity
-of the Shiwalik and its lacustrine origin and
-alluvial deposits consisting of sands silt
-clay boulders and conglomerates support
-this viewpoint.
-
-It is opined that in due course of time Indo—
-Brahma river was dismembered into three
-main drainage systems: (i) the Indus and
-its five tributaries in the western part; (ii)
-the Ganga and its Himalayan tributaries in
-the central part; and (iii) the stretch of the
-Brahmaputra in Assam and its Himalayan
-tributaries in the eastern part.
-
-The dismemberment was probably due to
-the Pleistocene upheaval in the western
-Himalayas including the (i) uplift of the
-Potwar Plateau (Delhi Ridge) which acted
-as the water divide between the Indus
-and Ganga drainage systems. Likewise
-(ii) the down thrusting of the Malda gap
-area between the Rajmahal hills and
-the Meghalaya plateau during the mid-
-Pleistocene period diverted the Ganga and
-the Brahmaputra systems to flow towards
-the Bay of Bengal.
-
-Evolution of the Peninsular rivers
-
-The water divide in the peninsular India
-due to (i) the Subsidence of the western
-flank of the Peninsula leading to its
-submergence below the sea during the
-early tertiary period; (ii) Upheaval of the
-Himalayas when the northern flank of
-the Peninsular block was subjected to
-subsidence and the consequent trough
-faulting; (iii) Slight tilting of the Peninsular
-block from northwest to the southeastern
-
-
-direction gave orientation to the entire
-drainage system towards the Bay of Bengal
-during the same period.
-
- Correct Option: (d)
-For Question 209.---------------
-Explanation:
-
-Shifting of rivers
-
-e In the Himalayan region the rivers have
-been shifting their courses. A number of
-examples are there. For instance the upper
-course of the Saraswati river was captured
-by a tributary of Ganga thus giving birth to
-the Yamuna River and the lower course of
-it was captured by Satluj.
-
-e The reasons for these shifting are as
-follows:
-
->» The Himalayasare still young and
-the rivers are perennial in nature.
-These rivers like Kosi bring huge
-amount of eroded materials that
-block the course of the rivers and
-hence the rivers shift.
-
->» Thecourse of these rivers is gently
-sloped in the middle and lower
-parts. This cause the meandering
-and later shifting of the course.
-
->» Floods cause the straightening of
-the course of the rivers and later
-shifting.
-
- Correct Option: (b)
-For Question 210.---------------
+For Question 202.---------------
 Explanation:
 
 Manas-Sankosh-Teesta-Ganga (MSTG)
@@ -11472,7 +10736,7 @@ feasibility report is under progress.
 
  Correct Option: (c)
 
-For Question 211.---------------
+For Question 203.---------------
 Explanation:
 
 Features of the Peninsular rivers
@@ -11496,7 +10760,7 @@ river.
 
  Correct Option: (b)
 
-For Question 212.---------------
+For Question 204.---------------
 Explanation:
 
 Ghaghra/ Karnali river
@@ -11523,7 +10787,7 @@ the Ganges in length after the Yamuna.
 
  Correct Option: (c)
 
-For Question 213.---------------
+For Question 205.---------------
 Explanation:
 
 Kaveri river
@@ -11554,7 +10818,7 @@ It is not a tributary of any river.
 
  Correct Option: (a)
 
-For Question 214.---------------
+For Question 206.---------------
 Explanation:
 
 Brahmaputra river system
@@ -11599,7 +10863,7 @@ Padma(Ganga in Bangladesh) which falls
 in the Bay of Bengal.
 
  Correct Option: (b)
-For Question 215.---------------
+For Question 207.---------------
 Explanation:
 
 Peninsular rivers
@@ -11624,7 +10888,7 @@ e However all the Peninsular rivers are
 fed by rain only.
 
  Correct Option: (c)
-For Question 216.---------------
+For Question 208.---------------
 Explanation:
 
 Tehri Dam
@@ -11644,7 +10908,7 @@ e Its length is 592 meters and height is
 265 meters.
 
 1 Correct Option: (c)
-For Question 217.---------------
+For Question 209.---------------
 Explanation:
 Cities on the bank of rivers
 e Surat: Tapti/Tapi
@@ -11681,7 +10945,7 @@ e Chennai: Cooum Adyar
 
 1 Correct Option: (c)
 
-For Question 218.---------------
+For Question 210.---------------
 Explanation:
 Tributaries of rivers
 
@@ -11699,7 +10963,7 @@ tributaries of Yamuna.
 
 1 Correct Option: (d)
 
-For Question 219.---------------
+For Question 211.---------------
 Explanation:
 
 West flowing rivers and delta formation
@@ -11730,7 +10994,7 @@ e These rivers are without distributaries
 and thus they do not form deltas.
 1 Correct Option: (d)
 
-For Question 220.---------------
+For Question 212.---------------
 Explanation:
 
 Narmada river
@@ -11762,7 +11026,7 @@ largest.
 
 1 Correct Option: (c)
 
-For Question 221.---------------
+For Question 213.---------------
 Explanation:
 
 Himalayan rivers flowing in India only
@@ -11801,7 +11065,7 @@ Bengal and Bihar and Bangladesh.
 
 1 Correct Option: (c)
 
-For Question 222.---------------
+For Question 214.---------------
 Explanation:
 
 Indus river system
@@ -11836,7 +11100,7 @@ tal’ near Mansarovar at an altitude of
 
 1 Correct Option: (c)
 
-For Question 223.---------------
+For Question 215.---------------
 Explanation:
 
 Rivers System in India
@@ -11891,7 +11155,7 @@ towards the Bay of Bengal.
 
 1 Correct Option: (b)
 
-For Question 224.---------------
+For Question 216.---------------
 Explanation:
 
 Indus River System
@@ -11962,7 +11226,7 @@ more gradually.
 
 1 Correct Option: (b)
 
-For Question 225.---------------
+For Question 217.---------------
 Explanation:
 
 The
@@ -11999,7 +11263,7 @@ into River Padma at Chandpur.
 
 1 Correct Option: (d)
 
-For Question 226.---------------
+For Question 218.---------------
 Explanation:
 
 Narmada
@@ -12038,7 +11302,7 @@ fall (12m) Sahasradhara falls (8m)
 
 2 Correct Option: (b)
 
-For Question 227.---------------
+For Question 219.---------------
 Explanation:
 
 The Tapi (or Tapti)
@@ -12098,6 +11362,7 @@ Rann of Kutch (Inland drainage)
 
 Correct option: (c)
 
+For Question 220.---------------
 Explanation
 
 e Both the statements are correct
@@ -12173,6 +11438,7 @@ few others.
 
 2 Correct option: (d)
 
+For Question 221.---------------
 Explanation
 
 All the above statements are correct
@@ -12272,6 +11538,7 @@ Canada.
 
 2 Correct option: (c)
 
+For Question 222.---------------
 Explanation
 
 Both the statements are correct
@@ -12365,6 +11632,7 @@ up to Bangladesh.
 
 2 Correct option: (b)
 
+For Question 223.---------------
 Explanation
 
 Statement 1 is incorrect: It is an
@@ -12516,7 +11784,7 @@ forces of India and Russia.
 
 Correct Option: (a)
 
-For Question 228.---------------
+For Question 224.---------------
 Explanation:
 
 Factors influencing the climate of India
@@ -12594,7 +11862,7 @@ along the Western Ghats.
 
 Correct Option: (d)
 
-For Question 229.---------------
+For Question 225.---------------
 Explanation:
 
 Climatic Regions of India according to
@@ -12678,7 +11946,7 @@ Himachal Pradesh and Uttarakhand.
 
  Correct Option: (b)
 
-For Question 230.---------------
+For Question 226.---------------
 Explanation:
 
 Rainfall in Winter Monsoon
@@ -12722,7 +11990,7 @@ called the western disturbance.
 
 Correct Option: (c)
 
-For Question 231.---------------
+For Question 227.---------------
 Explanation:
 
 Summer Season in India
@@ -12767,7 +12035,7 @@ This is commonly known as the ‘October
 
  Correct Option: (d)
 
-For Question 232.---------------
+For Question 228.---------------
 Explanation:
 
 Walker cell and Indian Monsoon
@@ -12818,7 +12086,7 @@ normal conditions.
 
  Correct Option: (b)
 
-For Question 233.---------------
+For Question 229.---------------
 Explanation:
 
 The months of April and May are
@@ -12852,7 +12120,7 @@ that the weather remains warm and dry.
 
  Correct Option: (a)
 
-For Question 234.---------------
+For Question 230.---------------
 Explanation:
 
 Traditional Indian seasons
@@ -12880,7 +12148,7 @@ August).
 
  Correct Option: (d)
 
-For Question 235.---------------
+For Question 231.---------------
 Explanation:
 
 Heat Waves
@@ -12919,7 +12187,7 @@ of Telangana and Andhra Pradesh.
 
  Correct Option: (d)
 
-For Question 236.---------------
+For Question 232.---------------
 Explanation:
 
 Projects to understand monsoon
@@ -12971,7 +12239,7 @@ Boundary Layer Experiment
 
 1 Correct option: (b)
 
-For Question 237.---------------
+For Question 233.---------------
 Explanation:
 El]-Nino and La-Nina
 
@@ -13028,7 +12296,7 @@ Ecuador and the Gulf of Mexico.
 
 1 Correct Option: (a)
 
-For Question 238.---------------
+For Question 234.---------------
 Explanation:
 
 Modern Theory of the origin of the
@@ -13119,7 +12387,7 @@ winter.
 
 1 Correct Option: (c)
 
-For Question 239.---------------
+For Question 235.---------------
 Explanation:
 
 The features of the Monsoon rainfall in
@@ -13166,7 +12434,7 @@ of winter crops difficult.
 
 1 Correct Option: (a)
 
-For Question 240.---------------
+For Question 236.---------------
 Explanation:
 
 Role of Indian Ocean Dipole in South-West
@@ -13237,7 +12505,7 @@ the sea rise upwards to preserve the
 continuity of mass.
 
 1 Correct Option: (d)
-For Question 241.---------------
+For Question 237.---------------
 Explanation:
 
 Formation of the North-East Monsoon
@@ -13276,7 +12544,7 @@ increases and thus the rainfall over Tamil
 Nadu.
 
 1 Correct Option: (a)
-For Question 242.---------------
+For Question 238.---------------
 Explanation:
 
 South-West Monsoon in Tamil Nadu
@@ -13353,7 +12621,7 @@ AOA na
 2 a —
 
 1 Correct Option: (c)
-For Question 243.---------------
+For Question 239.---------------
 Explanation:
 
 Tropical wet
@@ -13411,7 +12679,7 @@ leaving other states comparatively dry.
 
 1 Correct Option: (c)
 
-For Question 244.---------------
+For Question 240.---------------
 Explanation:
 
 Southwest Monsoon
@@ -13496,7 +12764,7 @@ left the country.
 
 1 Correct Option: (b)
 
-For Question 245.---------------
+For Question 241.---------------
 Explanation:
 
 Seasonal Rhythm
@@ -13595,7 +12863,7 @@ influencing the wind flow towardsthese
 plains assisting the establishment of
 the SW Monsoon.
 
-For Question 246.---------------
+For Question 242.---------------
 Explanation:
 
 Factors Affecting Indian Monsoon
@@ -13663,7 +12931,7 @@ stream which flows from Somalia to
 Indian mainland
 
 2 Correct Option: (b)
-For Question 247.---------------
+For Question 243.---------------
 Explanation:
 
 Monsoon
@@ -13739,7 +13007,7 @@ pan-masala.
 
 2 Correct Answer: (c)
 
-For Question 248.---------------
+For Question 244.---------------
 Explanation:
 
 e Both the statements are true
@@ -13802,7 +13070,7 @@ from the outset.
 
 2 Correct Option (d)
 
-For Question 249.---------------
+For Question 245.---------------
 Explanation:
 
 Statement (d) is correct
@@ -13857,7 +13125,7 @@ Egypt’s membership to the league.
 
 2 Correct Option (b)
 
-For Question 250.---------------
+For Question 246.---------------
 Explanation:
 
 Statement (b) is correct
@@ -13920,7 +13188,7 @@ cheaper
 
 2 Correct Option (a)
 
-For Question 251.---------------
+For Question 247.---------------
 Explanation:
 
 Statements 1 is correct
@@ -14025,7 +13293,7 @@ set as before.
 
 
 Correct Option: (c)
-For Question 252.---------------
+For Question 248.---------------
 Explanation:
 
 Tropic of Cancer in Indias
@@ -14054,7 +13322,7 @@ cities are either located above the Tropic of
 Cancer or below it.
 
 Correct Option: (d)
-For Question 253.---------------
+For Question 249.---------------
 Explanation:
 
 Islands of India
@@ -14097,7 +13365,7 @@ from the Maldives by Eight Degree
 Channel.
 
 Correct Option: (b)
-For Question 254.---------------
+For Question 250.---------------
 Explanation:
 
 Straits in Australia
@@ -14118,119 +13386,7 @@ between Australia and the Melanesian
 island of New Guinea.
 
 Correct Option: (a)
-For Question 255.---------------
-Explanation:
-
-Popular Straits
-
-e Strait of Malacca separates the Malay
-Peninsula from the Sumatra island. It is
-the longest strait of the World.
-
-e Denmark Strait is the widest strait which
-separates Greenland from Iceland.
-
-e Bosphorus Strait is the narrowest strait.
-
-
-
-
-
-Correct Option: (c)
-For Question 256.---------------
-Explanation:
-
-Tropic of Cancer in Indias
-
-e Mid-day sun is exactly overhead twice a
-year in cities in India which are located in
-the south of the Tropic of Cancer i.e. 23°26’
-16” N.
-
-e Aizwal and Agartala are located just
-north of the Line hence the Sun is
-never overhead in these cities.
-
-e Bhopal Ranchi and Nagpur are in the
-south of the Tropic of Cancer hence
-in these cities the Sun is overhead
-twice a year.
-
-e Those located above the Tropic will never
-have the sun overhead any time of the year
-while those located below the Tropic will
-have it twice a year once between March
-22 and June 22 and the other time between
-June 22 and September 2 All the above
-cities are either located above the Tropic of
-Cancer or below it.
-
-Correct Option: (d)
-For Question 257.---------------
-Explanation:
-
-Islands of India
-
-e In India there are 2 groups of oceanic
-islands viz. Andaman and Nicobar group
-(in the Bay of Bengal) and Lakshadweep
-group(in the Arabian Sea).
-
-Andaman and Nicobar group
-
-e There are 572 islands in Andaman and
-Nicobar group.
-
-e It is separated from the islands of
-Myanmar by Coco Channel.
-
-e Ten degrees Channel separates the
-Andaman group from the Nicobar
-group.
-
-e Duncan passage separates Little
-Andaman from South Andaman.
-
-Lakshadweep group
-
-e Itisa group of 36 coral islands located in
-the Arabian Sea.
-
-e Eleven-degree channel: Separates
-Amindivi islands from Cannanore
-Islands.
-
-e Minicoy is separated from the rest
-of the Lakshadweep by Nine Degree
-Channel.
-
-e Lakshadweep group separated
-from the Maldives by Eight Degree
-Channel.
-
-Correct Option: (b)
-For Question 258.---------------
-Explanation:
-
-Straits in Australia
-
-e Bass Strait is a sea strait separating
-Tasmania from the Australian mainland
-specifically the state of Victoria.
-
-e Cook Strait is a strait that separates the
-North and South Islands of New Zealand.
-It connects the Tasman Sea on the
-northwest with the South Pacific Ocean on
-the southeast and runs next to the capital
-city Wellington.
-
-e The Torres Strait is a strait which lies
-between Australia and the Melanesian
-island of New Guinea.
-
-Correct Option: (a)
-For Question 259.---------------
+For Question 251.---------------
 Explanation:
 
 Popular Straits
@@ -14246,7 +13402,7 @@ e Bosphorus Strait is the narrowest strait.
 
 
  Correct Option: (c)
-For Question 260.---------------
+For Question 252.---------------
 Explanation:
 
 Water bodies in the Western Pacific Ocean
@@ -14263,7 +13419,7 @@ e The Banda Sea is south of the Cream Sea
 and east of Indonesia.
 
  Correct Option: (d)
-For Question 261.---------------
+For Question 253.---------------
 Explanation:
 
 Lake Taupo
@@ -14273,7 +13429,7 @@ e All the other above-mentioned lakes are in
 Australia.
 
  Correct Option: (b)
-For Question 262.---------------
+For Question 254.---------------
 Explanation:
 
 States of Australia
@@ -14305,7 +13461,7 @@ Sea Islands Heard Island and McDonald
 Islands and Norfolk Island.
 
  Correct Option: (a)
-For Question 263.---------------
+For Question 255.---------------
 Explanation:
 
 Jordan River
@@ -14324,7 +13480,7 @@ is situated in the west of the River)
 take their names from the river.
 
  Correct Option: (c)
-For Question 264.---------------
+For Question 256.---------------
 Explanation:
 
 Tropic of Capricorn through Africa
@@ -14338,7 +13494,7 @@ countries of Namibia Botswana South
 Africa and Mozambique.
 
 1 Correct Option: (a)
-For Question 265.---------------
+For Question 257.---------------
 Explanation:
 
 Popular Straits
@@ -14357,7 +13513,7 @@ e Dardanelles Strait connects the Sea of
 Marmara with the Aegean Sea (Turkey)
 
 1 Correct Option: (b)
-For Question 266.---------------
+For Question 258.---------------
 Explanation:
 
 Countries around the Persian Gulf
@@ -14378,7 +13534,7 @@ of Doha. Muscat is the southernmost
 city.
 
 1 Correct Option: (d)
-For Question 267.---------------
+For Question 259.---------------
 Explanation:
 
 Isthmus of Kra
@@ -14398,7 +13554,7 @@ eastern part to Chumphon Province both
 in Southern Thailand.
 
 1 Correct Option: (c)
-For Question 268.---------------
+For Question 260.---------------
 Explanation:
 
 Highest peaks of the world
@@ -14442,7 +13598,7 @@ e Vinson Massif (4897 m) is the highest
 mountain on the Antarctic continent.
 
 1 Correct Option: (b)
-For Question 269.---------------
+For Question 261.---------------
 Explanation:
 
 Lithium Triangle
@@ -14462,7 +13618,7 @@ e The area holds around 54% of the world’s
 lithium reserves.
 
 1 Correct Option: (a)
-For Question 270.---------------
+For Question 262.---------------
 Explanation:
 
 The southernmost city of the world
@@ -14483,7 +13639,7 @@ e It faces the Beagle Channel which is a
 strait in Tierra del Fuego Archipelago.
 
 1 Correct Option: (d)
-For Question 271.---------------
+For Question 263.---------------
 Explanation:
 Maps of India
 
@@ -14513,7 +13669,7 @@ Pakigan
  
 
 1 Correct Option: (a)
-For Question 272.---------------
+For Question 264.---------------
 Explanation:
 
 Andaman and Nicobar Islands
@@ -14602,7 +13758,7 @@ Ps Cinque Island
  
 
 1 Correct Option: (c)
-For Question 273.---------------
+For Question 265.---------------
 Explanation:
 
 Island Nations of the World
@@ -14625,7 +13781,7 @@ New Zealand
 THE WALE STREET JUURNAL
 
 1 Correct Option: (a)
-For Question 274.---------------
+For Question 266.---------------
 Explanation:
 
 Seas of the world
@@ -14671,7 +13827,7 @@ palestine? |
 
 2 Correct Option: (a)
 
-For Question 275.---------------
+For Question 267.---------------
 Explanation:
 
 Maps of India
@@ -14729,6 +13885,7 @@ after Siberia.
 
 2 Correct option: (d)
 
+For Question 268.---------------
 Explanation
 
 e All the above statements are correct
@@ -14788,6 +13945,7 @@ and frequented by icebergs and sea ice.
 
 2 Correct option: (b)
 
+For Question 269.---------------
 Explanation
 
 e A rhino believed to the world’s oldest
@@ -14982,6 +14140,7 @@ instituted in 2021 to induct IRMS officers.
 
 24 Correct answer- (c)
 
+For Question 270.---------------
 Explanation-
 
 Both the statements are correct.
@@ -15014,7 +14173,7 @@ circumnavigate the globe.
 
 2 Correct answer- (b)
 
-For Question 276.---------------
+For Question 271.---------------
 Explanation:
 
 Only statement (2) is correct- It has
@@ -15046,7 +14205,7 @@ properties.
 
  Correct Option: (d)
 
-For Question 277.---------------
+For Question 272.---------------
 Explanation:
 
 Malthusian Theory of Population
@@ -15097,7 +14256,7 @@ population growth are very pessimistic.
 
  Correct Option: (c)
 
-For Question 278.---------------
+For Question 273.---------------
 Explanation:
 
 Spice producing states
@@ -15127,7 +14286,7 @@ producers of Chilli.
 
  Correct Option: (d)
 
-For Question 279.---------------
+For Question 274.---------------
 Explanation:
 
 Tribes in Ladakh
@@ -15154,7 +14313,7 @@ Peru Columbia and Brazil.
 
  Correct Option: (d)
 
-For Question 280.---------------
+For Question 275.---------------
 Explanation:
 
 UN Population Fund
@@ -15187,7 +14346,7 @@ billion marks.
 
  Correct Option: (a)
 
-For Question 281.---------------
+For Question 276.---------------
 Explanation:
 
 Approaches to Human Development
@@ -15235,7 +14394,7 @@ key to increasing human development.
 
  Correct Option: (b)
 
-For Question 282.---------------
+For Question 277.---------------
 Explanation:
 
 Crop Productivity and Intensity
@@ -15274,7 +14433,7 @@ revolution confined areas.
 
  Correct Option: (d)
 
-For Question 283.---------------
+For Question 278.---------------
 Explanation:
 
 Double-Cropping Agriculture
@@ -15296,7 +14455,7 @@ crop.
 
 Correct Option: (c)
 
-For Question 284.---------------
+For Question 279.---------------
 Explanation:
 
 Specialized Cultivations
@@ -15324,7 +14483,7 @@ oriented breeding of fish.
 
 Correct Option: (d)
 
-For Question 285.---------------
+For Question 280.---------------
 Explanation:
 
 State-wise Crude Oil Production Trends
@@ -15342,7 +14501,7 @@ Arunachal Pradesh: 533
 
 Correct Option: (c)
 
-For Question 286.---------------
+For Question 281.---------------
 Explanation:
 
 Types of agriculture and their main
@@ -15450,7 +14609,7 @@ the model of Kolkhoz was introduced in the
 erstwhile Soviet Union
 
 1 Correct Option: (a)
-For Question 287.---------------
+For Question 282.---------------
 Explanation:
 
 Cost per MW production from renewable
@@ -15472,7 +14631,7 @@ Rs 03 Cr for Wind
 vvevyv
 
 1 Correct Option: (b)
-For Question 288.---------------
+For Question 283.---------------
 Explanation:
 
 Hydroelectric power plants in Jammu &
@@ -15494,7 +14653,7 @@ Ladakh.
 
 e Rangit is in Sikkim.
 1 Correct Option: (a)
-For Question 289.---------------
+For Question 284.---------------
 Explanation:
 Bio-gas
 
@@ -15526,7 +14685,7 @@ solely on gas (dedicated) or on both diesel
 and gas (dual-fuel).
 
 1 Correct Option: (b)
-For Question 290.---------------
+For Question 285.---------------
 Explanation:
 Nuclear Power Plants in India
 e Kaiga isin Karnataka.
@@ -15566,7 +14725,7 @@ Rajasthan@ © B8himpur
 ‘Source: World Nuclear Association
 1 Correct Option: (b)
 
-For Question 291.---------------
+For Question 286.---------------
 Explanation:
 
 Thorium and Uranium
@@ -15599,7 +14758,7 @@ reserves.
 
 1 Correct Option: (c)
 
-For Question 292.---------------
+For Question 287.---------------
 Explanation:
 
 Nuclear Power plants in India
@@ -15657,7 +14816,7 @@ core of its reactor were replaced.
 
 1 Correct Option: (d)
 
-For Question 293.---------------
+For Question 288.---------------
 Explanation:
 
 Uranium and Nuclear
@@ -15682,7 +14841,7 @@ construction.
 
 1 Correct Option: (b)
 
-For Question 294.---------------
+For Question 289.---------------
 Explanation:
 Shale Gas
 
@@ -15750,7 +14909,7 @@ the availability of water for other uses and
 can affect aquatic habitats.
 
 1 Correct Option: (a)
-For Question 295.---------------
+For Question 290.---------------
 Explanation:
 
 Consumption of Renewable Energy in the
@@ -15782,7 +14941,7 @@ hydropower
 
 2 Correct Option: (c)
 
-For Question 296.---------------
+For Question 291.---------------
 Explanation:
 
 Cotton Production in China
@@ -15832,6 +14991,7 @@ unit area for cotton will be approximately
 
 2 Correct option: (d)
 
+For Question 292.---------------
 Explanation
 
 All the above statements are correct
@@ -15888,6 +15048,7 @@ virus when viewed by electron microscopy.
 
 2 Correct option: (d)
 
+For Question 293.---------------
 Explanation
 
 COP 25 will take place from 2-13 December
@@ -15945,6 +15106,7 @@ budgets.
 
 2 Correct option: (b)
 
+For Question 294.---------------
 Explanation
 
 India is not a member of NATO
@@ -15991,6 +15153,7 @@ member nations from threats by communist
 
 2 Correct option: (d)
 
+For Question 295.---------------
 Explanation
 
 India’s first hybrid annuity model (HAM)
@@ -16122,7 +15285,7 @@ above the 50% reservation cap.
 
 
 Correct Option: (a)
-For Question 297.---------------
+For Question 296.---------------
 Explanation:
 
 Ores and Minerals
@@ -16140,7 +15303,7 @@ e Thorium is. obtained from _ thorite
 thorianite and monazite.
 
 Correct Option: (a)
-For Question 298.---------------
+For Question 297.---------------
 Explanation:
 
 Biggest coal mines in the world
@@ -16161,7 +15324,7 @@ Autonomous Region of China in which Hei
 Dai Gou coal mine is also located.
 
 Correct Option: (c)
-For Question 299.---------------
+For Question 298.---------------
 Explanation:
 
 Graphite resources in India
@@ -16188,7 +15351,7 @@ contributing 56% to the total output during
 2017- 18 followed by Odisha and Kerala.
 
 Correct Option: (c)
-For Question 300.---------------
+For Question 299.---------------
 Explanation:
 Apatite and Rock Phosphate
 
@@ -16218,7 +15381,7 @@ or after concentration in manufacturing
 commercial products.
 
 Correct Option: (d)
-For Question 301.---------------
+For Question 300.---------------
 Explanation:
 
 Foundry industry
@@ -16251,7 +15414,7 @@ Electrical Power Machinery Pumps /
 Valves Wind turbine generators etc.
 
  Correct Option: (c)
-For Question 302.---------------
+For Question 301.---------------
 Explanation:
 
 Indian Railway Zone and _ their
@@ -16299,7 +15462,7 @@ Plant at Nagarnar Bastar District in
 Chhattisgarh.
 
 Correct Option: (b)
-For Question 303.---------------
+For Question 302.---------------
 Explanation:
 
 Cement Industry
@@ -16325,7 +15488,7 @@ North Western Railway
 Southern Railway Ores and Minerals
 South Central Railway Secunderabad e Glass is a non-crystalline transparent
 
-For Question 304.---------------
+For Question 303.---------------
 Explanation:
 
 South Eastern Railway
@@ -16353,7 +15516,7 @@ Soda Glass Sodium Carbonate Calcium
 Carbonate and Silica
 
 
-For Question 305.---------------
+For Question 304.---------------
 Explanation:
 
 Steel Companies in Public Sector
@@ -16378,7 +15541,7 @@ Carbonate and Silica
 
  
 
-For Question 306.---------------
+For Question 305.---------------
 Explanation:
 
 Major agricultural revolutions in India are
@@ -16411,7 +15574,7 @@ Golden Revolution: For honey production.
 
 1 Correct Option: (a)
 
-For Question 307.---------------
+For Question 306.---------------
 Explanation:
 
 Golden Quadrilateral
@@ -16466,7 +15629,7 @@ Surat and Mumbai.
 
 1 Correct Option: (c)
 
-For Question 308.---------------
+For Question 307.---------------
 Explanation:
 
 Cotton Textile Industry in India
@@ -16489,7 +15652,7 @@ the world.
 
 1 Correct Option: (a)
 
-For Question 309.---------------
+For Question 308.---------------
 Explanation:
 
 Pipelines
@@ -16547,7 +15710,7 @@ National Gas Grid.
 
 1 Correct Option: (b)
 
-For Question 310.---------------
+For Question 309.---------------
 Explanation:
 
 Green Field Airports
@@ -16576,7 +15739,7 @@ airport in India and in Asia.
 
 1 Correct Option: (a)
 
-For Question 311.---------------
+For Question 310.---------------
 Explanation:
 
 Solar power in India
@@ -16596,7 +15759,7 @@ solar power globally.
 
 1 Correct Option: (d)
 
-For Question 312.---------------
+For Question 311.---------------
 Explanation:
 
 Census of India
@@ -16701,7 +15864,7 @@ Islands
 
  
 
-For Question 313.---------------
+For Question 312.---------------
 Explanation:
 
 Distribution of Iron
@@ -16798,7 +15961,7 @@ Peru— Nazca-Marcona area.
 
 1 Correct Option: (d)
 
-For Question 314.---------------
+For Question 313.---------------
 Explanation:
 
 Fish Production in India
@@ -16841,7 +16004,7 @@ and Indian salmon.
 
 1 Correct Option: (a)
 
-For Question 315.---------------
+For Question 314.---------------
 Explanation:
 
 North Atlantic Route
@@ -16872,7 +16035,7 @@ the world.
 
 2 Correct Option: (c)
 
-For Question 316.---------------
+For Question 315.---------------
 Explanation:
 
 Minerals and India
@@ -16923,6 +16086,7 @@ galena ore in Hindustan Zinc Smelter.
 
 2 Correct option: (b)
 
+For Question 316.---------------
 Explanation
 
 DepartmentofRural Development Ministry
@@ -17016,6 +16180,7 @@ convergence framework.
 
 2 Correct option: (d)
 
+For Question 317.---------------
 Explanation
 
 All the above statements are correct
@@ -17069,7 +16234,7 @@ eligible as per these guidelines.
 
 2 Correct Answer: (a)
 
-For Question 317.---------------
+For Question 318.---------------
 Explanation:
 
 (a) is correct Answer
@@ -17133,7 +16298,7 @@ of retrenchment.
 
 24 Correct Answer (d)
 
-For Question 318.---------------
+For Question 319.---------------
 Explanation:
 
 Option (d) is correct
@@ -17192,6 +16357,7 @@ CartoSat-2 series satellites.
 
 2 Correct option: (c)
 
+For Question 320.---------------
 Explanation
 
 Both the above statements are correct
@@ -17233,7 +16399,7 @@ project.
 
  Correct Option: (c)
 
-For Question 319.---------------
+For Question 321.---------------
 Explanation:
 
 Global Coal Reserves
@@ -17251,122 +16417,10 @@ consumption in 2018) of Coal more than
 the USA.
 
  Correct Option: (b)
-
-For Question 320.---------------
-Explanation:
-
-Global climate
-
-In Asia South-East Islands are the largest
-producer of palm oil Indonesia being the
-largest producer followed by Malaysia. The
-tropical climate of these countries supports
-the growth of the palm.
-
-But at the same time once degenerated
-the land becomes unfit for agriculture due
-to high temperature and high microbial
-growth rate in these regions.
-
-Apart from it many tribal groups in these
-Island nations practice Shifting agriculture
-or Slash and Burn agriculture which has
-led to shrinking in the cover of tropical
-evergreen forest.
-
-Taiga vegetation lies in the vicinity of the
-Arctic Circle where the Tundra region ends.
-It is marked by needled leaf softwood trees
-such as spruce larch fir and pine.
-
-There has been a considerable shift in the
-vegetation of south-east Asia from tropical
-evergreen forest to the deciduous forest due
-to the degeneration of tropical grassland
-due to the cultivation of palm and Shifting
-Agriculture not a wildfire.
-
-
- Correct Option: (d)
-
-For Question 321.---------------
-Explanation:
-
-Hawaii Islands
-
-Hawaiian Island consists of many atolls
-and islets which are essentially formed by
-coral reefs. Few of the islands of Hawaii
-are of volcanic origin and are formed by the
-consolidation of basaltic lava which comes
-out of the submarine volcanoes.
-
-Hawaii Islands are not Island arcs but
-are formed by a linear chain of volcanoes.
-These Islands are formed by the outpouring
-of highly basaltic mobile lava which comes
-out of the submarine volcanoes cool down
-and consolidate over time.
-
-These submarine volcanoes were the
-hotspot volcanoes or plum volcanoes over
-which the pacific plate passed which led
-to the deposition of basaltic lava on it and
-Islands were formed.
-
-Although Hawaii Islands is an Archipelago
-consisting of eight major Islands and seven
-minor Islands all of them are not of volcanic
-origin. There are various atolls of coral
-origin is present in the Island group.
-
-Hawaiian Island is not an island arc but a
-linear chain of a volcano.
-
- Correct Option: (a)
 
 For Question 322.---------------
 Explanation:
 
-Mountains of the world
-
-The Atlas Mountains extend some 2500km
-across northwestern Africa spanning
-Morocco Algeria and Tunisia separating
-the Atlantic and Mediterranean coastline
-from the Sahara Desert.
-
-Both Zagros Mountains and Elburz
-
-Mountains are in Iran.
-188
-
-
-
- Correct Option: (c)
-
-For Question 323.---------------
-Explanation:
-
-Global Coal Reserves
-
-North Antelope Rochelle coal mine in the
-Powder River Basin of Wyoming USA is
-the largest coal mine in the world.
-
-The USA has the largest coal reserves but
-China is the largest producer in 201 India
-was the second-largest producer.
-
-China is the biggest consumer (50% of total
-consumption in 2018) of Coal more than
-the USA.
-
- Correct Option: (b)
-
-For Question 324.---------------
-Explanation:
-
 Global climate
 
 In Asia South-East Islands are the largest
@@ -17401,7 +16455,7 @@ Agriculture not a wildfire.
 
  Correct Option: (d)
 
-For Question 325.---------------
+For Question 323.---------------
 Explanation:
 
 Hawaii Islands
@@ -17437,7 +16491,7 @@ linear chain of a volcano.
 
  Correct Option: (a)
 
-For Question 326.---------------
+For Question 324.---------------
 Explanation:
 
 Mountains of the world
@@ -17453,7 +16507,7 @@ Both Zagros Mountains and Elburz
 Mountains are in Iran.
  Correct Option: (b)
 
-For Question 327.---------------
+For Question 325.---------------
 Explanation:
 
 Mediterranean climate
@@ -17487,7 +16541,7 @@ south-west Australia (Swanland).
 
  Correct Option: (d)
 
-For Question 328.---------------
+For Question 326.---------------
 Explanation:
 
 Moldova is not situated on the banks of
@@ -17507,7 +16561,7 @@ Ukraine.
 
  Correct Option: (c)
 
-For Question 329.---------------
+For Question 327.---------------
 Explanation:
 
 Map of India
@@ -17535,7 +16589,7 @@ Karnataka-Tamil
 
  Correct Option: (d)
 
-For Question 330.---------------
+For Question 328.---------------
 Explanation:
 
 Bodoland Territorial Area Districts
@@ -17551,7 +16605,7 @@ Autonomous Council.
 
  Correct Option: (a)
 
-For Question 331.---------------
+For Question 329.---------------
 Explanation:
 
 Terekhol river:
@@ -17573,7 +16627,7 @@ distances.
 
 1 Correct Option: (c)
 
-For Question 332.---------------
+For Question 330.---------------
 Explanation:
 
 Purvachal hills
@@ -17599,7 +16653,7 @@ Barail range is in Assam.
 
 1 Correct Option: (d)
 
-For Question 333.---------------
+For Question 331.---------------
 Explanation:
 
 Mica in India
@@ -17632,7 +16686,7 @@ Jharkhand and Telangana.
 
 1 Correct Option: (d)
 
-For Question 334.---------------
+For Question 332.---------------
 Explanation:
 
 Coal reserves in India
@@ -17675,7 +16729,7 @@ Jharkhand produces the coking coal.
 
 1 Correct Option: (b)
 
-For Question 335.---------------
+For Question 333.---------------
 Explanation:
 
 Natural Gas reserves in India
@@ -17700,7 +16754,7 @@ for the remaining 34%.
 
 1
 
-For Question 336.---------------
+For Question 334.---------------
 Explanation:
 
 Largest Producer of crops in India
@@ -17719,7 +16773,7 @@ Rice: West Bengal
 
 Correct Option: (c)
 
-For Question 337.---------------
+For Question 335.---------------
 Explanation:
 
 Shale Gas reserves in India
@@ -17771,7 +16825,7 @@ USGS 700
  
 
 1 Correct Option: (b)
-For Question 338.---------------
+For Question 336.---------------
 Explanation:
 
 Solar System
@@ -17795,7 +16849,7 @@ rapid rotation deep atmospheres and
 lots of satellites.
 
 1 Correct Option: (b)
-For Question 339.---------------
+For Question 337.---------------
 Explanation:
 
 e Earth rotates along its axis from west to
@@ -17825,7 +16879,7 @@ Assam. This Bagaan time is more suitable
 for tea plantations.
 
 1 Correct Option: (a)
-For Question 340.---------------
+For Question 338.---------------
 Explanation:
 
 Regions of Convergent Boundaries
@@ -17894,7 +16948,7 @@ South Sandwich Trench.
 
 1 Correct Option: (c)
 
-For Question 341.---------------
+For Question 339.---------------
 Explanation:
 
 Geomorphic Forces
@@ -17926,7 +16980,7 @@ processes.
 
 2 Correct Option: (a)
 
-For Question 342.---------------
+For Question 340.---------------
 Explanation:
 
 Banihal-Qazigund tunnel
@@ -17970,6 +17024,7 @@ makes it less prone to avalanches.
 
 2 Correct option: (b)
 
+For Question 341.---------------
 Explanation
 
 Statement 1 is incorrect: On January 1
@@ -18010,7 +17065,7 @@ the Brahminical Peshwas.
 
 2 Correct Answer: (a)
 
-For Question 343.---------------
+For Question 342.---------------
 Explanation:
 
 2™ statement is incorrect. India is not a
@@ -18056,7 +17111,7 @@ Convention.
 
 2 Correct Answer: (b)
 
-For Question 344.---------------
+For Question 343.---------------
 Explanation:
 
 3"? statement is incorrect.
@@ -18231,7 +17286,7 @@ of the promised “$1 trillion in the last
 
 2 Correct Option: (c)
 
-For Question 345.---------------
+For Question 344.---------------
 Explanation:
 
 Lado Campaign is an innovative flagship
@@ -18269,6 +17324,7 @@ To ensure intergenerational equity.
 
 2 Correct answer- (c)
 
+For Question 345.---------------
 Explanation
 
 Both the statements are correct.
@@ -18522,3 +17578,1305 @@ magnetosphere. Named for their discoverer
 James Van Allen the belts swell and
 shrink over time. The belts swell when
 already energetic electrons and protons are
+
+
+
+
+
+
+ 
+
+pumped up to relativistic energies during
+geomagnetic storms. They can shrink if
+electrons manage to escape from radiation
+belts — either along the field down into
+the Earth’s atmosphere or back out into
+interplanetary space.
+
+There are two sub belts of this. The outer
+belt is made up of billions of high-energy
+particles that originate from the Sun and
+become trapped in Earth’s magnetic field
+an area known as the magnetosphere.
+The inner belt results from interactions of
+cosmic rays with Earth’s atmosphere. The
+inner belt composed predominantly
+of protons and the outer belt mostly
+electrons.
+
+Sees CU sth)
+
+Ty OT
+
+Correct Option: (c)
+
+For Question 350.---------------
+Explanation:
+
+Maps of the world
+
+Melanesia is a subregion of Oceania
+extending from New Guinea island in
+the southwestern Pacific Ocean to
+the Arafura Sea and eastward to Tonga.
+The region includes the four independent
+countries of Vanuatu Solomon Islands
+Fiji and Papua New Guinea as well as
+the French special collectivity of New
+Caledonia and the Indonesian region of
+Western New Guinea. Most of the region
+is in the Southern Hemisphere with a few
+small northwestern islands of Western
+New Guinea in the Northern Hemisphere.
+
+Micronesia is a subregion of Oceania
+composed of thousands of small islands in
+the western Pacific Ocean.
+
+Macaronesia is a collection of four
+archipelagos in the North Atlantic Ocean
+off the coast of the continents of Europe
+and Africa.
+
+Correct Option: (b)
+
+For Question 351.---------------
+Explanation:
+
+
+Measurement of Earthquakes
+
+Although the curve of Earthquake Waves
+is recorded at Seismograph the intensity
+and magnitude of the Earthquakes are
+measured by two different scales namely
+Richter Scale and Merealli Scale.
+
+Richter Scale
+
+This scale developed by Charles Richter
+measures the magnitude of the energy
+released during the Earthquake.
+
+This scale is open-ended e. there is not any
+end of the scale but it has never measured
+any Earthquake of magnitude greater than
+
+
+The Richter-scale in nature is
+logarithmic based on 1 That is the
+Earthquake at magnitude 5 is 10 times
+more powerful than the Earthquake at
+magnitude 4 and 100 times more than the
+earthquake at magnitude 
+
+Mercalli Scale
+
+The Mercalli Intensity Scale developed by
+Giuseppe Mercalli and expanded to include
+12 degrees of intensity by Adolfo Cancani.
+It was further modified again by Harry
+O. Wood and Frank Neumann and today
+known as the Modified Mercalli Intensity
+Scale.
+
+It measures the intensity of an
+earthquake based on its actual impacts
+on people the environment and the
+Earth’s surface.
+
+It is a closed-ended linear Scale
+scaled from 1-12 or I-XII with zero effect
+in Intensity 1 Earthquake and _ total
+destruction in Intensity 12 Earthquake.
+
+ Correct Option: (b)
+
+For Question 352.---------------
+Explanation:
+
+Gradation
+
+The phenomenon of wearing down of
+relief variations of the surface of the earth
+through erosion is known as gradation.
+
+Exogenetic forces constantly work to
+bring about leveling or the gradation of
+land.
+
+They attempt to achieve a condition
+of balance between erosion and
+deposition which means a graded
+position.
+
+Agents of gradation like rivers glaciers
+winds sea waves and groundwater perform
+their tasks with the help of the triple action
+of weathering erosion and deposition.
+e Of these the first three agents are
+controlled by climatic conditions.
+The work of the other two agents of
+erosion-waves and groundwater is not
+controlled by climate.
+
+e Inthe case of waves it is the location along
+with the interface of the lithosphere and
+hydrosphere — coastal region — that will
+determine the work of waves whereas the
+work of groundwater is determined more
+by the lithological character of the region.
+
+e The leveling down of elevated portions of
+the earth’s surface is done by erosion.
+
+e The filling up of depressions is done
+by deposition of the eroded material
+transported by the external agents of
+gradation.
+
+ Correct Option: (a)
+For Question 353.---------------
+Explanation:
+
+Types of Folds
+
+e A fold is an undulating structure (wave-
+like) that forms when rocks or a part of
+the earth’s crust is folded (deformed by
+bending) under compressional stress. The
+folds that are upwardly convex are called
+anticlines. In contrast the folds that are
+downwardly convex are called synclines.
+
+ 
+
+e Symmetrical fold is one in which the
+axial plane is vertical.
+
+e An asymmetrical fold is one in which the
+axial plane is inclined.
+
+e An isoclinal fold has limbs that are
+essentially parallel to each other and
+thus approximately parallel to the
+axial plane.
+
+e An overturned fold has a highly inclined
+axial plane such that the strata on one
+limb are overturned.
+
+ 
+
+
+e A recumbent fold has an essentially
+horizontal axial plane.
+
+syncling
+
+axial plane
+
+asymmetrical overfold recumbent
+fold fold
+
+symmetrical
+fold
+
+©2015 Encyunpasdia Brfannica ine.
+
+e On the basis of nature folds are of two
+types viz. Simple and Complex fold.
+
+e Simple folds have well-developed systems
+of synclines and anticlines are found and
+folds are of wavy patterns.
+
+e in Complex fold the rock strata are
+intensely compressed to produce a complex
+structure of folds. In these types of folds
+over folds and recumbent folds are often
+found detached from their roots and
+carried a few hundred kilometers away by
+the tectonic forces. These detached folds
+are called ‘nappe.’
+
+ Correct Option: (c)
+For Question 354.---------------
+Explanation:
+
+Some famous plateaus of the world
+
+e Tibetan Plateau is the highest and largest
+plateau in the world and hence called the
+‘roof of the world’.
+
+e Iberian Plateau is in Portugal and Spain.
+
+e Mascarene Plateau is a submarine plateau
+in the Indian Ocean north and east of
+Madagascar.
+
+e Massif Central lies in central France and
+famous for Grapes cultivation.
+
+e Kerguelen Plateau is the largest undersea
+plateau in the Indian Ocean.
+
+1 Correct Option: (a)
+For Question 355.---------------
+Explanation:
+
+Iron Ores in India
+
+e Iron ores occur in different geological
+formations. But in India or elsewhere
+these ores are found associated with
+volcanic-sedimentary Banded iron
+formations (BIF) of the Pre-Cambrian
+age.
+
+e With the total resources of over 3276
+
+cCESCORE
+yao).
+
+
+billion tonnes of Haematite (FeO ) and
+Magnetite (FeO ) India is one of the
+leading producers of iron ore in the world.
+
+India has both the ores. In fact it is
+Haematite that has been exploited through
+mining as the most of the magnetite
+reserves are in the eco-fragile regions
+of the Western Ghat.
+
+Haematite and magnetite are the most
+important iron ores in India.
+
+About 79% of haematite ore deposits are
+found in the Eastern Sector (Assam Bihar
+Chhattisgarh Jharkhand Odisha & Uttar
+Pradesh).
+
+About 93% of magnetite ore deposits
+occur in Southern Sector (Andhra
+Pradesh Goa Karnataka Kerala & Tamil
+Nadu).
+
+Karnataka alone contributes 72% of
+magnetite deposit in India.
+
+1 Correct Option: (c)
+
+For Question 356.---------------
+Explanation:
+
+Statement 1 is incorrect: All
+natural earthquakes take place in the
+lithosphere.
+
+Statement 2 is incorrect: Although body
+waves are faster and arrive first at the
+surface they are less damaging than
+surface waves.
+
+Supplementary notes:
+
+Earthquake
+
+An earthquake in simple words is shaking
+of the Earth.
+
+It is a natural event caused due to the
+release of energy which generates waves
+that travel in all directions.
+
+The release of energy occurs along a fault
+a sharp break in the crustal rocks.
+
+The point where the energy is released
+is called the focus or hypocentre of an
+earthquake. The energy waves traveling in
+different directions reach the surface. The
+point on the surface nearest to the focus
+is called epicenter. It is the first one to
+experience the waves.
+
+This release of energy is propagated
+as waves or simply saying Earthquake
+Waves.
+
+Earthquake Waves
+
+The Earthquakes Waves are recorded on
+the seismograph.
+
+
+There are basically two types of Earthquake
+Waves — Body waves and surface waves.
+
+Body Waves
+
+Body waves are generated at the focus
+and move in all the directions through
+the body of the Earth (3-dimensional).
+They are the fastest in reaching to the
+surface.
+
+They are of two types viz. Primary waves/
+P-waves and Secondary waves/S-
+waves.
+
+Primary waves/P-waves
+
+P-waves moves longitudinally i.e. the
+propagation and vibration are in a same
+direction similar to the sound waves. They
+are the fastest of all the earthquake waves.
+They travel through gaseous liquid and
+solid materials.
+
+Secondary waves/S-waves
+
+S-waves are second to reach at the
+surface after P-waves. As they can
+travel only through solid materials of
+the Earth they cannot pass through
+Earth’s outer core therefore their
+shadow zone is broader than that of
+P-waves. This reveals that the outer
+core of the Earth is not in solid form.
+
+S-waves propagate transversally
+i.e. the direction of propagation and the
+direction of vibration is perpendicular to
+each other.
+
+Surface waves
+
+Surface waves are generated when the
+body waves interact with the surface rocks.
+As they move along the surface and the
+direction of the vibration is perpendicular
+to the propagation these waves are
+considered as the most damaging one.
+
+1 Correct Option: (c)
+
+For Question 357.---------------
+Explanation:
+
+Early theories of Origin of the Earth
+
+One of the earlier and popular arguments
+was by German philosopher Immanuel
+Kant. Mathematician Laplace revised
+it in 179 It is known as the Nebular
+Hypothesis.
+
+The hypothesis considered that the planets
+were formed out of a cloud of material
+associated with a youthful sun which was
+slowly rotating.
+
+In 1900 Chamberlain and Moulton
+considered that a wandering — star
+approached the sun. As a result a cigar-
+shaped extension of the material was
+separated from the solar surface. As the
+passing star moved away the material
+separated from the solar surface continued
+to revolve around the sun and it slowly
+condensed into planets.
+
+The Big Splat Theory
+
+e It is now generally believed that the
+formation of the moon as a satellite of the
+earth is an outcome of ‘giant impact’ or
+what is described as “the big splat”.
+
+e A body of the size of one to three times that
+of mars collided into the earth sometime
+shortly after the earth was formed. It
+blasted a large part of the earth into
+space.
+
+e This portion of blasted material then
+continued to orbit the earth and eventually
+formed into the present moon about 44
+billion years ago.
+
+The Big Bang Theory
+
+e The most popular argument regarding
+the origin of the universe is the Big Bang
+Theory.
+
+e It is also called the expanding universe
+hypothesis.
+
+e According to this theory the universe is
+expanding. As time passes galaxies move
+further and further apart.
+
+e Edwin Hubble in 1920 provided evidence
+for the same.
+
+1 Correct Option: (a)
+
+For Question 358.---------------
+Explanation:
+
+e Statement 3 is incorrect: Mass movements
+are very active over weathered slopes
+rather than over un-weathered materials.
+
+Supplementary notes:
+
+Mass Movements
+
+e These movements transfer the mass of rock
+debris down the slopes under the direct
+influence of gravity. That means air water
+or ice do not carry debris with them from
+place to place but on the other hand the
+debris may carry with it air water or ice.
+
+e The movements of mass may range from
+slow to rapid affecting shallow to deep
+columns of materials and include creep
+flow slide and fall.
+
+e Gravity exerts its force on all matter both
+bedrock and the products of weathering.
+So weathering is not a pre-requisite for
+
+
+mass movement though it aids mass
+movements.
+
+e Mass movements are very active over
+weathered slopes rather than over un-
+weathered materials.
+
+e Mass movements are aided by gravity
+and no geomorphic agent like running
+water glaciers wind waves and
+currents participate in the process of
+mass movements. That means mass
+movements do not come under erosion
+though there is a shift (aided by
+gravity) of materials from one place to
+another.
+
+e Materials over the slopes have their own
+resistance to disturbing forces and will
+yield only when force is greater than the
+shearing resistance of the materials.
+
+e Weak unconsolidated materials thinly
+bedded rocks faults steeply dipping beds
+vertical cliffs or steep slopes abundant
+precipitation and torrential rains and
+scarcity of vegetation etc. favour mass
+movements
+
+1 Correct Option: (a)
+
+For Question 359.---------------
+Explanation:
+e Option (a) is correct: Earth experiences
+
+highest temperature in the subtropics in
+the northern hemisphere rather than at
+the Equator because subtropical areas tend
+to have less cloud cover than equatorial
+areas.
+
+Supplementary notes:
+
+Spatial Distribution of Insolation at the
+Earth’s Surface
+
+e Theinsolation received at the surface varies
+from about 320 Watt/m2 in the tropics to
+about 70 Watt/m2 in the poles.
+
+e Maximum insolation is received over
+the subtropical deserts where the
+cloudiness is the least.
+
+e The Equator receives comparatively less
+insolation than the tropics.
+
+e Generally at the same latitude the
+insolation is moreover the continent than
+over the oceans.
+
+e In winter the middle and higher latitudes
+receive less radiation than in summer.
+
+1 Correct Option: (c)
+
+For Question 360.---------------
+Explanation:
+
+e Pair 1 is _incorrectl matched:
+Continental shelf is occupied by relatively
+shallow seas and gulfs.
+
+206
+
+
+Supplementary notes:
+
+Divisions of the Ocean Floors
+
+The ocean floors can be divided into four
+major divisions:
+
+The Continental Shelf
+The Continental Slope
+The Deep Sea Plain
+The Oceanic Deeps.
+
+Besides these divisions there are also
+major and minor relief features in the
+ocean floors likeridges hills seamounts
+guyots trenches canyons etc.
+
+Continental Shelf
+
+The continental shelf is the extended
+margin of each continent occupied by
+relatively shallow seas and gulfs.
+
+It is the shallowest part of the ocean
+showing an average gradient of 1° or even
+less. The shelf typically ends at a very steep
+slope called the shelf break.
+
+The width of the continental shelves varies
+from one ocean to another. The average
+width of continental shelves is about 80
+km.
+
+The shelves are almost absent or very
+narrow along some of the margins like the
+coasts of Chile the west coast of Sumatra
+etc.
+
+On the contrary the Siberian shelf in the
+Arctic Ocean the largest in the world
+stretches to 1500 km in width. The depth
+of the shelves also varies. It may be as
+shallow as 30 m in some areas while in
+some areas it is as deep as 600 m.
+
+The continental shelves are covered with
+variable thicknesses of sediments brought
+down by rivers glaciers wind from the
+land and distributed by waves and currents.
+Massive sedimentary deposits received
+over a long time by the continental shelves
+become the source of fossil fuels.
+
+Continental Slope
+
+The continental slope connects the
+
+continental shelf and the ocean basins.
+
+It begins where the bottom of the
+continental shelf sharply drops off into
+a steep slope. The gradient of the slope
+region varies between 2-5°. The depth of
+the slope region varies between 200 and
+3000 m. The slope boundary indicates the
+end of the continents.
+
+
+Canyons and trenches are observed in
+this region.
+
+Deep-Sea Plain
+
+Deep-sea plains are gently sloping areas
+of the ocean basins. These are the flattest
+and smoothest regions of the world. The
+depths vary between 3000 and 6000m.
+These plains are covered with fine-grained
+sediments like clay and silt.
+
+Oceanic Deeps or Trenches
+
+These areas are the deepest parts of the
+oceans. The trenches are relatively steep-
+sided narrow basins. They are some 3-5
+km deeper than the surrounding ocean
+floor.
+
+They occur at the bases of continental
+slopes and along island arcs and are
+associated with active volcanoes and
+strong earthquakes. That is why they
+are very significant in the study of plate
+movements.
+
+As many as 57 deeps have been explored so
+far; of which 32 are in the Pacific Ocean; 19
+in the Atlantic Ocean and 6 in the Indian
+Ocean.
+
+1 Correct Option: (b)
+
+For Question 361.---------------
+Explanation:
+
+Volcanism
+
+Magma is the term used to denote the
+molten rocks and related materials seen
+inside earth. A weaker zone of the mantle
+called asthenosphere usually is the
+source of magma. Once this magma
+came out to the earth surface through the
+vent of a volcano it is called as the Lava.
+Therefore Lava is nothing but the magma
+on earth surface.
+
+Cinder cones are circular or oval cones
+made up of small fragments of lava from a
+single vent that has been blown up. Cinder
+cones result from eruptions of mostly small
+pieces of scoria and pyroclastics that build
+up around the vent. Most cinder cones
+erupt only once. Cinder cones may form as
+flank vents on larger volcanoes or occur on
+their own.
+
+Composite Volcanoes are steep-sided
+volcanoes composed of many layers of
+voleanic rocks usually made from high-
+viscosity lava ash and rock debris.
+
+Shield volcanoes are volcanoes shaped
+like a bowl or shield in the middle with long
+gentle slopes made by basaltic lava flows.
+Lava domes are formed when erupting
+lava is too thick to flow and makes a steep-
+sided mound as the lava piles up near
+the volcanic vent. They are built by slow
+eruptions of highly viscous lava.
+
+1 Correct Option: (c)
+
+For Question 362.---------------
+Explanation:
+
+Settlement Hierarchy
+
+Isolate dwellings: Such _ settlement
+consists of individual units. It can be
+termed as the initial state of development
+of a settlement. An isolated dwelling would
+only have 1 or 2 buildings or families in it.
+
+Hamlets: When many individual units are
+cluster together they form hamlets. The
+grouping may be due to similar occupation
+patterns religion cultural factors etc. a
+hamlet has a tiny population (<100) and
+very few (if any) service.
+
+Villages: When many hamlets combine
+they from a village. The reason for such
+grouping may be due to interdependencies
+of one hamlet on another thus to form a
+self-sufficient unit.
+
+Towns: A town is a larger entity which
+is more self-sufficient and has a stronger
+economic base.
+
+Cities: Where large concentration of people
+exists multiple economic activities exist.
+
+Metropolis: A metropolis isa large city
+witha population of at least one million
+living in its urban agglomeration.
+
+Megalopolis: An extensive metropolitan
+area or a long chain of continuous
+metropolitan areas.
+
+Mega Cities. Cities with population of 5
+million and above are known as mega cities
+according to Census of India. But United
+Nations considers mega cities as those that
+have a population of 10 million and above.
+In India Greater Mumbai Kolkata and
+Delhi are examples of mega cities.
+
+1 Correct Option: (c)
+
+For Question 363.---------------
+Explanation:
+
+Census Town
+
+The definition of urban areas has been
+refined in 2011 according to which urban
+areas are comprised of two types of
+administrative units—Statutory Towns
+and Census Towns.
+
+Statutory Towns : All administrative units
+that have been defined by statute as urban
+like Municipal Corporation Municipality
+
+
+Cantonment Board Notified Town Area
+Committee Town Panchayat Nagar Palika
+etc. are known as Statutory Towns.
+
+Census Towns Administrative units
+satisfying the following three criteria
+simultaneously are treated as Census
+Towns as mentioned below:
+
+>» A minimum population of 5000;
+
+>» At least 75 percent of male working
+population engagedinnon-agricultural
+sector; and
+
+>» A density of population of at least
+4000 persons per square kilometer
+
+1 Correct Option: (b)
+
+For Question 364.---------------
+Explanation:
+
+Approaches to Human Development
+
+Income Approach: This is one of the
+oldest approaches to human development.
+Human development is seen as being
+linked to income. The idea is that the level
+of income reflects the level of freedom
+an individual enjoys. Higher the level of
+income the higher is the level of human
+development.
+
+Welfare Approach: This approach looks
+at human beings as beneficiaries or targets
+of all development activities. The approach
+argues for higher government expenditure
+on education health social secondary and
+amenities. People are not participants in
+development but only passive recipients.
+The government is responsible for
+increasing levels of human development by
+maximising expenditure on welfare.
+
+Basic Needs Approach: This approach
+was initially proposed by the International
+Labour Organisation (ILO). Six basic needs
+i.e.: health education food water supply
+sanitation and housing were identified.
+The question of human choices is ignored
+and the emphasis is on the provision of
+basic needs of defined sections.
+
+Capability Approach: This approach
+is associated with Prof. Amartya Sen.
+Building human capabilities in the areas of
+health education and access to resources is
+the key to increasing human development.
+
+2 Correct Option: (d)
+
+For Question 365.---------------
+Explanation:
+
+UN Habitat
+
+It is a UN agency responsible for
+
+208
+
+
+sustainable urban development and human
+settlements. It is an intergovernmental
+body established in 197
+
+Headquartered in UN Offi ce at Nairobi
+Kenya.
+
+It is also a member of United Nation
+Development Programme (UNDP).
+
+It promotes socially and environmentally
+sustainable towns and cities with the goal
+of providing adequate shelter for all.
+
+UN-Habitat works in more than 70
+countries in five continents focusing on
+seven areas:
+
+>» Urban Legislation Land and
+
+Governance;
+
+Urban Planning and Design;
+Urban Economy;
+
+Urban Basic Services;
+
+Housing and Slum Upgrading;
+Risk Reduction and Rehabilitation;
+
+Urban Research
+Development
+
+vvvvv iy
+
+and Capacity
+
+India has been unanimously elected as
+President of UN-Habitat in 201
+
+2 Correct option: (b)
+
+For Question 366.---------------
+Explanation
+
+Statement 1 is incorrect: It is a
+conditional Maternity Benefit Programme
+launched by the Ministry of Women and
+Child Development.
+
+Statement 3 is incorrect: It is
+implemented in all the districts of the
+country in accordance with the provision of
+the National Food Security Act 201
+
+Supplementary notes
+
+Pradhan Mantri Matru Vandana Yojana
+
+Pradhan Mantri Matru Vandana
+Yojana (PMMVY) is a Maternity Benefit
+Programme that is implemented in all the
+districts of the country in accordance with
+the provision of the National Food Security
+Act 201
+
+It is a conditional Maternity Benefit
+Programme launched by the Ministry of
+Women and Child Development.
+
+Providing partial compensation for the
+wage loss in terms of cash incentive s so
+that the woman can take adequate rest
+before and after delivery of the first living
+
+
+child.
+
+All Pregnant Women and Lactating
+Mothers excluding PW&LM who are in
+regular employment with the Central
+Government or the State Governments or
+PSUs or those who are in receipt of similar
+benefits under any law for the time being
+in force are eligible.
+
+A beneficiary is eligible to receive benefits
+under the scheme only once.In case of
+miscarriage/still birth the beneficiary
+would be eligible to claim the remaining
+instalment(s) in event of any future
+pregnancy.
+
+Providing partial compensation for the
+wage loss in terms of cash incentive s so
+that the woman can take adequate res t
+before and after delivery of the first living
+child.
+
+The cash incentive provided would lead
+to improved health seeking behaviour
+amongst the Pregnant Women and
+Lactating Mothers (PW& LM).
+
+2 Correct option: (c)
+
+For Question 367.---------------
+Explanation
+
+Statement 1 is incorrect: The Indian
+rhinoceros once ranged throughout the
+entire stretch of the Indo-Gangetic Plain
+but excessive hunting and agricultural
+development reduced its range drastically
+to 11 sites in northern India and southern
+Nepal.
+
+Statement 2 is incorrect: It is listed as
+Vulnerable on the IUCN Red List.
+
+Supplementary notes
+
+Rhinos to be
+
+re-introduced in
+
+Uttarakhand
+
+According to officials around 10 rhinos will
+be brought in CTR in the first phase and
+subsequently 10 more would be added.
+
+Experts claim that protecting these rhinos
+from poaching will be the only challenge
+for the state’s forest department staff after
+the move.
+
+Thegeographicalterrainandenvironmental
+conditions in CTR are suitable for rhinos.
+
+The ideal sites chosen in Corbett are valley
+habitats bounded on either side by the lower
+Himalayas (north) Shivalik Hills (south)
+and the Ramganga Reservoir (east) which
+would also act as natural barriers to rhino
+movement outside these area thereby
+minimising conflict with people.
+
+Benefits from this move-
+e According to wildlife experts rhinos reduce
+the size of elephant grass by eating it.
+
+e This would mean that species that thrive
+on lower-height grass — Hog Deer Cheetal
+Sambar and Swamp Deer among others —
+would also be encouraged.
+
+e According to WII experts the rhino’s range
+was once continuous across the flood plains
+of the Indus Ganges and the Brahmaputra
+but today it is limited to small fragmented
+pockets in India and Nepal as a result of
+anthropogenic pressures.
+
+e Re-introduction into habitats in its historic
+range would not only create safety-net
+populations for the species but also restore
+their ecological role in these faunally-
+degraded habitats.
+
+About One-horn Rhino
+
+e ThelIndianrhinocerosalsocalled the greater
+one-horned rhinoceros and great Indian
+rhinoceros is a rhinoceros species native to
+the Indian subcontinent.
+
+e Itis listed as Vulnerable on the IUCN Red
+List.
+
+e The Indian rhinoceros once ranged
+throughout the entire stretch of the Indo-
+Gangetic Plain but excessive hunting and
+agricultural development reduced its range
+drastically to 11 sites in northern India and
+southern Nepal.
+
+e It inhabits the alluvial grasslands of the
+Terai and the Brahmaputra basin.
+
+e The Indian rhinoceros is regionally extinct
+in Pakistan.
+
+e There are about 2600 rhinos in India
+with more than 90% of the population
+concentrated in Assam’s Kaziranga
+National Park. Outside Kaziranga rhinos
+are found in West Bengal Uttar Pradesh
+and Bihar.
+
+e Kaziranga National Park in Assam India
+holds about 70% of the world population.
+This is worrisome for two reasons — the
+park may have reached its carrying
+capacity and might not be able to support
+any more rhinos; and the entire species’
+population could decimated because by
+a disease outbreak natural disaster or
+another acute threat.
+
+About Jim Corbett National Park-
+
+e Itis the oldest national park in India and
+was established in 1936 as Hailey National
+Park to protect the endangered Bengal
+tiger.
+
+
+e It is located in Nainital district and Pauri
+Garhwal district of Uttarakhand and was
+named after Jim Corbett a well-known
+hunter and naturalist.
+
+e The park was the first to come under
+the Project Tiger initiative in 197
+
+2 Correct Option (d)
+
+For Question 368.---------------
+Explanation:
+
+e All statements are correct
+Supplementary Notes
+
+Principle of Non-refoulement
+
+e Non-refoulement is a fundamental
+principle of international law that forbids
+a country receiving asylum seekers
+from returning them to a country in which
+they would bein likely danger of persecution
+based on “race religion nationality
+membership of a particular social
+group or political opinion’.
+
+e Unlike political asylum which applies to
+those who can prove a well-grounded fear
+of persecution based on certain category
+of persons non-refoulement refers to the
+generic repatriation of people including
+refugees into war zones and other disaster
+locales.
+
+e It is a principle of customary
+international law as it applies even to
+states that are not parties to the 1951
+Convention Relating to the Status of
+Refugees or its 1967 Protocol.
+
+e Itis also a principle of the Trucial law of
+nations.
+
+e History: The principle of non-refoulement
+arises out of an international collective
+memory of the failure of nations during
+World War II to provide a safe haven to
+refugees fleeing certain genocide at the
+hands of the Nazi regime.
+
+2 Correct Option (a)
+
+For Question 369.---------------
+Explanation:
+e Statements 1 and 2 are correct
+
+e Statement 3 is incorrect: Koragas are
+classified by the Government of India as a
+Scheduled Tribe.
+
+Supplementary Notes
+
+Koraga community
+
+e Geographical presence: The Koragas
+are a tribal community found mainly
+in Dakshina Kannada Udupi districts
+of Karnataka and Kasaragod district of
+
+210
+
+
+Kerala South India. These areas in
+Karnataka are together often referred to
+as Tulu Nadu.
+
+Way of life: The area in which Koragas live
+comprise mostly of agricultural land and
+forest. The tribe continues to make use of
+the forest produce—principally bamboo
+and creepers—for the manufacture of
+baskets.
+
+>» Traditionally they lived in structures
+made of leaves called koppus and
+also dressed in leaves. Around
+the beginning of 21st century they
+started to live in simple free houses
+constructed and _ sanctioned by
+Government agencies.
+
+>» Some continue to remain either
+homeless or live on government-owned
+lands.
+
+Culture and language: Koraga people are
+known for drum beating (dollu or dolu
+beating). They used to beat dolu during
+events such as Kambala village fairs or
+just for fun in their living places.
+
+>» Flute music and dance involving
+both men and women are also
+important parts of Koraga culture and
+are apparent at celebrations such as
+Bhoomi Habba (worshipping earth).
+
+» Language: Koragas have their
+own language classified as an
+independent Dravidian language
+which is strongly influenced by Tulu
+Kannada Malayalam languages
+commonly found in their area.
+
+Social Status: The 1901 census report
+noted the Koraga as a lowly tribe of basket-
+makers and labourers some of whom
+were employed as scavengers.
+
+> In past they were claimed to be
+of Chandala origin considered
+untouchables among Hindus and
+suffered centuries of oppression.
+
+» Presently Koragas are classified
+by the Government of India as a
+
+Scheduled Tribe.
+
+>» The Koraga people are an
+educationally disadvantaged
+tribe.
+
+Practice of Ajalu: Koraga people have been
+subjected to a caste-based discriminatory
+practice known as Ajalu where Koragas are
+made to eat leftover food from upper caste
+households mixed with hair fingernails
+and other inedible substances and made to
+run like buffaloes before the beginning of
+Kambala race.”
+
+
+» Ajalu has been considered inhuman
+and was prohibited in 2000 by the
+Karnataka Koragas (Prohibition
+of Ajalu Practice) Act 200
+
+2 Correct Answer: (a)
+
+For Question 370.---------------
+Explanation:
+
+3and 4 statementsareincorrect. Wadhwa
+and Shanta Kumar committees were set up
+for reforming public distribution system.
+
+Supplementary Notes
+
+The Criminal Justice System in India is an
+age-old system primarily based upon the
+Penal legal system that was established by
+the British Rule in India.
+
+The system has still not undergone any
+substantial changes even after 70 years of
+Independence. The biggest example could
+be Section 124A of the Indian Penal Code
+(IPC) that defines sedition and provides for
+its punishment.
+
+The entire Code of Criminal Procedure
+(Cr.P.C.) was amended in 197
+
+The appointment of the Vohra Committee
+was the very first attempt towards
+reforming the Criminal Justice System
+in India. Vohra Committee report (19938)
+made an observation on the criminalisation
+of politics and of the nexus among
+criminals politicians and bureaucrats in
+India.
+
+In 2000 the government formed a panel
+headed by Justice V.S. Malimath the former
+Chief Justice of Kerala and Karnataka to
+suggest reform in the century-old criminal
+justice system.
+
+The Malimath Committee submitted its
+report in 2003 with 158 recommendations
+but these were never implemented.
+
+The Committee felt that the existing
+system “weighed in favour of the accused
+and did not adequately focus on justice to
+the victims of crime.”
+
+Wadhwa and Shanta Kumar
+committees were set up for reforming
+public distribution system.
+
+Malimath Committee (2000) on reforms
+in the Criminal Justice System of India
+(CJS) submitted its report in 200 It
+suggested 158 changes in the CJSI but the
+recommendations weren’t implemented.
+
+The Committee had opined that the existing
+system “weighed in favour of the accused
+and did not adequately focus on justice to
+the victims of crime.”
+Recommendations
+
+Rights of the Accused: The Committee
+suggested that a Schedule to the Code be
+brought out in all regional languages so
+that the accused knows his/her rights as
+well as how to enforce them and whom to
+approach when there is a denial of those
+rights.
+
+Police Investigation: The Committee
+suggested hiving off the investigation wing
+from Law and Order.
+
+Court and Judges: The report pointed out
+the judge-population ratio in India is 15
+
+REKEKRERERE
+
+
+per million population as against 50 judges
+per million population in many parts of the
+world. The ratio is 166 per million people
+as of 201
+
+>» It suggested the increase in strength
+of judges and courts.
+
+Witness Protection: It suggested separate
+witness protection law so that safety and
+security of witness can be ensured and they
+can be treated with dignity.
+
+Vacations of Court: It recommended
+reducing the vacations of court on account
+of long pendency of cases.
+
+
+105

@@ -36,7 +36,7 @@ def questions_extr(page_name,count):
                 o.write('\n'+line+'\n'+'Options {}.------------'.format(count))
             if quest.match(line):
                 text=re.sub('\d{2}\.|,','',line)
-                q.write('\n' + text)
+                q.write(' '+text)
     q.close()
     o.close()
     return count
