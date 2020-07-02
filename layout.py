@@ -12,8 +12,9 @@ with pdfplumber.open('GEOGRAPHY_QUIZ.pdf') as pdf:
     f.write('                  OPTIONS PAGE                   '+'\n'+"Options 1.------------")
     f.close()
     start_page=3
-    i=3   #starting from page No.
-    e=211  #ending to page No.
+    #Running for the TEST DAY-16
+    i=3   #starting of page No.
+    e=15  #ending to page No.
     while(i<=e):
         page=pdf.pages[i]
         text=page.extract_text()

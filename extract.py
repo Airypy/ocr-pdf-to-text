@@ -6,7 +6,7 @@ from wand.image import Image as wi
 
 #Function to print questions and options of the pdf
 def questions_extr(page_name,count):
-    pdf = wi(filename =page_name, resolution = 300)
+    pdf = wi(filename =page_name, resolution = 500)
     pdfImage = pdf.convert('jpeg')
 
     imageBlobs=[]
@@ -23,20 +23,40 @@ def questions_extr(page_name,count):
     for imgBlob in imageBlobs:
         im = Image.open(io.BytesIO(imgBlob))
         text = pytesseract.image_to_string(im, lang = 'eng')
-        quest=re.compile('(?!.*(\(|Time|TARGET|TEST|DAY|crJSCORE|ceEJSCORE|Maximum))[0-9]?[a-zA-z]?.*')#Pattern to select answers
+        quest=re.compile('(?!.*(\(|Time|TARGET|TEST|DAY|Maximum))[0-9]?[a-zA-z]?.*[^SCORE]$')#Pattern to select answers
+        non_waste=re.compile('(?!.*(Time|TARGET|TEST|DAY|Maximum|\d{2}\.)).*[^SCORE]$')
         options=re.compile('[(][a-c][)].*')#Pattern to select options
-        for line in text.split('\n'):
-            if line=='' or len(line)<=3 and line[0].isdigit():
+        lines=text.split('\n')
+        length=len(lines)
+        i=0
+        while(i<length):
+
+            if lines[i]=='' or len(lines[i])<=3 and lines[i][0].isdigit():
+                i+=1
                 continue
-            if options.match(line):
-                o.write('\n'+line)
-            if(line!='' and line[0]=='(' and line[1]=='d'):
+            if options.match(lines[i]):
+                while(i<length and lines[i][1]!='d'):
+                    if non_waste.match(lines[i]):
+                        o.write('\n'+lines[i])
+                    i+=1
+                    while(i<length and lines[i]==''):
+                        i+=1
+                if len(lines[i])==3:
+                    o.write('\n'+lines[i])
+                    i+=1
+                    while(i<length and lines[i]==''):
+                        i+=1
+                while(i<length and lines[i]!=''):
+                    o.write('\n'+lines[i])
+                    i+=1
                 count+=1
+                o.write('\n'+'Options {}.------------'.format(count))
                 q.write('\n'+"Question {}.----------------".format(count)+'\n')
-                o.write('\n'+line+'\n'+'Options {}.------------'.format(count))
-            if quest.match(line):
-                text=re.sub('\d{2}\.|,','',line)
+                continue
+            if quest.match(lines[i]):
+                text=re.sub('\d{2}\.|,','',lines[i])
                 q.write(' '+text)
+            i+=1
     q.close()
     o.close()
     return count
@@ -60,9 +80,9 @@ def answers_extr(page_name,ans_count):
     for imgBlob in imageBlobs:
         im = Image.open(io.BytesIO(imgBlob))
         text = pytesseract.image_to_string(im, lang = 'eng')
-        ans=re.compile('(?!.*(Time|TARGET|ANSWER|crSCORE|DAY|crJSCORE|ceEJSCORE)).*') #REMOVING TEXTS STARTING FROM WORDS INSIDE THE BRACKETS
+        ans=re.compile('(?!.*(Time|TARGET|ANSWER|DAY)).*[^SCORE]$') #REMOVING TEXTS STARTING FROM WORDS INSIDE THE BRACKETS
         for line in text.split('\n'):
-            if "Explanation:" in line or "Explanation" in line or "Correct Option" in line:
+            if "Correct Option:" in line or "Correct Option" in line or "Correct Answer" in line:
                 ans_count+=1
                 a.write('\n'+"For Question {}.---------------".format(ans_count))
             if ans.match(line):
